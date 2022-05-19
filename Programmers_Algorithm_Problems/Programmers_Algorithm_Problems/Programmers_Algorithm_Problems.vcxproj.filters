@@ -13,5 +13,27 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\problem">
+      <UniqueIdentifier>{1e0c5196-acfa-4657-a5fd-29565b685f7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problem">
+      <UniqueIdentifier>{fd51f78e-ca12-482f-98d9-91ad88c5dca4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="입국심사.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main_header.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="입국심사.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
