@@ -3,7 +3,8 @@
 int main() {
 
 	//입국심사::service();
-	가장_먼_노드::service();
+	//가장_먼_노드::service();
+	브라이언의_고민::service();
 
 	return 0;
 }

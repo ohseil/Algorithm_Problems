@@ -129,11 +129,13 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="가장_먼_노드.cpp" />
+    <ClCompile Include="브라이언의_고민.cpp" />
     <ClCompile Include="입국심사.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h" />
     <ClInclude Include="가장_먼_노드.h" />
+    <ClInclude Include="브라이언의_고민.h" />
     <ClInclude Include="입국심사.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
