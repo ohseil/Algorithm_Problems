@@ -36,6 +36,9 @@
     <ClCompile Include="리틀_프렌즈_사천성.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="전화번호_목록.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -51,6 +54,9 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="리틀_프렌즈_사천성.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="전화번호_목록.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>
