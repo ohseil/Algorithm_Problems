@@ -22,6 +22,7 @@ bool isBoard(int m, int n, int limit_m, int limit_n) {
     return 0 <= m && m < limit_m && 0 <= n && n < limit_n;
 }
 
+// BFS
 bool checkEraseTile(char tile, vector<string> board, map<char, vector<pair<int, int>>> t_pos_map, int m, int n) {
 
     pair<int, int> start = t_pos_map[tile][0];
