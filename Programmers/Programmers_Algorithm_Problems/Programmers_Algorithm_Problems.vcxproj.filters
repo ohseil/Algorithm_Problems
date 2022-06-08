@@ -51,6 +51,9 @@
     <ClCompile Include="소수_찾기.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="조이스틱.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -81,6 +84,9 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="소수_찾기.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="조이스틱.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>
