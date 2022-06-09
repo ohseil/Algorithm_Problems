@@ -2,7 +2,7 @@
 
 int main() {
 
-	조이스틱::service();
+	정수_삼각형::service();
 
 	return 0;
 }
