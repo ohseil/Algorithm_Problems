@@ -130,6 +130,7 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="가장_먼_노드.cpp" />
     <ClCompile Include="가장_큰_수.cpp" />
+    <ClCompile Include="네트워크.cpp" />
     <ClCompile Include="디스크_컨트롤러.cpp" />
     <ClCompile Include="리틀_프렌즈_사천성.cpp" />
     <ClCompile Include="브라이언의_고민.cpp" />
@@ -144,6 +145,7 @@
     <ClInclude Include="main_header.h" />
     <ClInclude Include="가장_먼_노드.h" />
     <ClInclude Include="가장_큰_수.h" />
+    <ClInclude Include="네트워크.h" />
     <ClInclude Include="디스크_컨트롤러.h" />
     <ClInclude Include="리틀_프렌즈_사천성.h" />
     <ClInclude Include="브라이언의_고민.h" />
