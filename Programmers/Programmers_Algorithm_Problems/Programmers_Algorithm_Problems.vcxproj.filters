@@ -57,6 +57,9 @@
     <ClCompile Include="정수_삼각형.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="네트워크.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -93,6 +96,9 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="정수_삼각형.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="네트워크.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>

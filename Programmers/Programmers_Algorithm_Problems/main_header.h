@@ -10,3 +10,4 @@
 #include "소수_찾기.h"
 #include "조이스틱.h"
 #include "정수_삼각형.h"
+#include "네트워크.h"

@@ -2,7 +2,7 @@
 
 int main() {
 
-	정수_삼각형::service();
+	네트워크::service();
 
 	return 0;
 }
