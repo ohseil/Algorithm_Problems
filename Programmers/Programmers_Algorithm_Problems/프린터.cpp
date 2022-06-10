@@ -5,6 +5,8 @@
 
 using namespace std;
 
+프린터_BEGIN
+
 int solution(vector<int> priorities, int location) {
     
     int answer = 0;
@@ -48,10 +50,12 @@ int solution(vector<int> priorities, int location) {
     return answer;
 }
 
-void 프린터::service() {
+void service() {
 
     vector<int> p = { 2, 1, 3, 2 };
     int location = 2;
 
     cout << solution(p, location) << endl;
 }
+
+프린터_END

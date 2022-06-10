@@ -1,6 +1,12 @@
 #include "Á¤¼ö_»ï°¢Çü.h"
+#include <iostream>
+#include <vector>
 
-int Á¤¼ö_»ï°¢Çü::solution(vector<vector<int>> triangle) {
+using namespace std;
+
+Á¤¼ö_»ï°¢Çü_BEGIN
+
+int solution(vector<vector<int>> triangle) {
     
     // dp »ç¿ë
 
@@ -38,8 +44,10 @@ int Á¤¼ö_»ï°¢Çü::solution(vector<vector<int>> triangle) {
     return answer;
 }
 
-void Á¤¼ö_»ï°¢Çü::service() {
+void service() {
 
     vector<vector<int>> tr = { {7},{3,8},{8,1,0},{2,7,4,4},{4,5,2,6,5} };
     cout << solution(tr) << endl;
 }
+
+Á¤¼ö_»ï°¢Çü_END

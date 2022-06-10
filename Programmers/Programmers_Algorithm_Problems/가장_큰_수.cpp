@@ -6,6 +6,8 @@
 
 using namespace std;
 
+가장_큰_수_BEGIN
+
 bool cmp(string lhs, string rhs) {
     return stoi(lhs + rhs) > stoi(rhs + lhs);
 }
@@ -31,8 +33,10 @@ string solution(vector<int> numbers) {
     return answer;
 }
 
-void 가장_큰_수::service() {
+void service() {
 
     vector<int> v = { 3, 30, 34, 5, 9 };
     cout << solution(v) << endl;
 }
+
+가장_큰_수_END

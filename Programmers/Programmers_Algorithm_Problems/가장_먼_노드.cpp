@@ -7,6 +7,8 @@
 
 using namespace std;
 
+가장_먼_노드_BEGIN
+
 #define INF 2100000000
 
 int solution(int n, vector<vector<int>> edge) {
@@ -60,10 +62,12 @@ int solution(int n, vector<vector<int>> edge) {
     return answer;
 }
 
-void 가장_먼_노드::service() {
+void service() {
 
     int n = 6;
     vector<vector<int>> v = { {3,6},{4,3},{3,2},{1,3},{1,2},{2,4},{5,2} };
     cout << solution(n, v) << endl;
     
 }
+
+가장_먼_노드_END

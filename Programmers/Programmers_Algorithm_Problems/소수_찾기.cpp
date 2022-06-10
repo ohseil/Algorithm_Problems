@@ -6,6 +6,8 @@
 
 using namespace std;
 
+소수_찾기_BEGIN
+
 bool isPrime(int num) {
 	for (int i = 2; i * i <= num; i++) {
 		if (num % i == 0)
@@ -45,9 +47,11 @@ int solution(string numbers) {
 	return answer;
 }
 
-void 소수_찾기::service() {
+void service() {
 
     string n = "011";
     cout << solution(n) << endl;
 
 }
+
+소수_찾기_END

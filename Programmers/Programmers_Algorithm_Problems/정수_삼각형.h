@@ -1,10 +1,9 @@
 #pragma once
-#include <iostream>
-#include <vector>
+#define Á¤¼ö_»ï°¢Çü_BEGIN namespace Á¤¼ö_»ï°¢Çü {
+#define Á¤¼ö_»ï°¢Çü_END }
 
-using namespace std;
+Á¤¼ö_»ï°¢Çü_BEGIN
 
-namespace Á¤¼ö_»ï°¢Çü {
-	int solution(vector<vector<int>> triangle);
-	void service();
-}
+void service();
+
+Á¤¼ö_»ï°¢Çü_END

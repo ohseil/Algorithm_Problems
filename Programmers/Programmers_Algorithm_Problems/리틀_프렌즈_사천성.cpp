@@ -7,6 +7,8 @@
 
 using namespace std;
 
+리틀_프렌즈_사천성_BEGIN
+
 int dm[4] = { 0,0,1,-1 };
 int dn[4] = { 1,-1,0,0 };
 
@@ -137,10 +139,12 @@ string solution(int m, int n, vector<string> board) {
     return answer;
 }
 
-void 리틀_프렌즈_사천성::service() {
+void service() {
 
     int m = 4;
     int n = 4;
     vector<string> b = { ".ZI.", "M.**", "MZU.", ".IU." };
     cout << solution(m, n, b) << endl;
 }
+
+리틀_프렌즈_사천성_END
