@@ -6,6 +6,8 @@
 
 using namespace std;
 
+브라이언의_고민_BEGIN
+
 #define INVALID "invalid"
 
 string solution(string sentence) {
@@ -151,9 +153,11 @@ string solution(string sentence) {
     return answer;
 }
 
-void 브라이언의_고민::service() {
+void service() {
 
     string str = "HaEaLaLaObWORLDb";
     cout << solution(str) << endl;
 
 }
+
+브라이언의_고민_END

@@ -6,6 +6,8 @@
 
 using namespace std;
 
+전화번호_목록_BEGIN
+
 bool solution(vector<string> phone_book) {
     
     bool answer = true;
@@ -30,8 +32,10 @@ bool solution(vector<string> phone_book) {
     return answer;
 }
 
-void 전화번호_목록::service() {
+void service() {
 
     vector<string> p = { "119", "97674223", "1195524421" };
     cout << solution(p) << endl;
 }
+
+전화번호_목록_END

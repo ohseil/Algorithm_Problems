@@ -1,4 +1,4 @@
-#include "디스크컨트롤러.h"
+#include "디스크_컨트롤러.h"
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -6,12 +6,14 @@
 
 using namespace std;
 
+디스크_컨트롤러_BEGIN
+
 class Job {
 public:
     int t_request;
     int t_work;
     Job(int tr, int tw) : t_request(tr), t_work(tw) {}
-    Job();    
+    Job();
 };
 
 class cmp {
@@ -60,8 +62,10 @@ int solution(vector<vector<int>> jobs) {
     return answer / jobs.size();
 }
 
-void 디스크컨트롤러::service() {
+void service() {
 
     cout << solution({ {0,3},{1,9},{2,6} }) << endl;
 
 }
+
+디스크_컨트롤러_END

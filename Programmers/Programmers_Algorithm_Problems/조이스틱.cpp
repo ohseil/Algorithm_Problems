@@ -1,6 +1,12 @@
 #include "조이스틱.h"
+#include <iostream>
+#include <vector>
 
-int 조이스틱::solution(string name) {
+using namespace std;
+
+조이스틱_BEGIN
+
+int solution(string name) {
 
 	// 무조건 모든 'A'가 아닌 알파벳은 변경해야 하기 때문에
 	// 나중에 모든 알파벳을 확인해서 계산하여 필요한 조이스틱 움직임 횟수 +.
@@ -48,10 +54,10 @@ int 조이스틱::solution(string name) {
 	return answer;
 }
 
-
-
-void 조이스틱::service() {
+void service() {
 
     string str = "AAAAA";
     cout << solution(str) << endl;
 }
+
+조이스틱_END

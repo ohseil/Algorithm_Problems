@@ -5,7 +5,7 @@
 #include "리틀_프렌즈_사천성.h"
 #include "전화번호_목록.h"
 #include "프린터.h"
-#include "디스크컨트롤러.h"
+#include "디스크_컨트롤러.h"
 #include "가장_큰_수.h"
 #include "소수_찾기.h"
 #include "조이스틱.h"

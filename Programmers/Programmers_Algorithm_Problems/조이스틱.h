@@ -1,10 +1,9 @@
 #pragma once
-#include <iostream>
-#include <vector>
+#define ¡∂¿ÃΩ∫∆Ω_BEGIN namespace ¡∂¿ÃΩ∫∆Ω {
+#define ¡∂¿ÃΩ∫∆Ω_END }
 
-using namespace std;
+¡∂¿ÃΩ∫∆Ω_BEGIN
 
-namespace ¡∂¿ÃΩ∫∆Ω { 
-	void service(); 
-	int solution(string name);
-}
+void service(); 
+
+¡∂¿ÃΩ∫∆Ω_END

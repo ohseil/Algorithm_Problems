@@ -5,6 +5,8 @@
 
 using namespace std;
 
+입국심사_BEGIN
+
 long long cal(long long time, vector<int> times) {
 
 	long long count = 0;
@@ -49,7 +51,9 @@ long long solution(int n, vector<int> times) {
 	return answer;
 }
 
-void 입국심사::service() {
+void service() {
 
 	cout << solution(6, { 7, 10 }) << endl;
 }
+
+입국심사_END
