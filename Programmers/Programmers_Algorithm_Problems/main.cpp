@@ -2,7 +2,7 @@
 
 int main() {
 
-	게임_맵_최단거리::service();
+	예상_대진표::service();
 
 	return 0;
 }
