@@ -2,7 +2,7 @@
 
 int main() {
 
-	네트워크::service();
+	게임_맵_최단거리::service();
 
 	return 0;
 }
