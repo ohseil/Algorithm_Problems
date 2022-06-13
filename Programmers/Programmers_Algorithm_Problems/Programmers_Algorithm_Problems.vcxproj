@@ -136,6 +136,7 @@
     <ClCompile Include="리틀_프렌즈_사천성.cpp" />
     <ClCompile Include="브라이언의_고민.cpp" />
     <ClCompile Include="소수_찾기.cpp" />
+    <ClCompile Include="순위.cpp" />
     <ClCompile Include="예상_대진표.cpp" />
     <ClCompile Include="입국심사.cpp" />
     <ClCompile Include="전화번호_목록.cpp" />
@@ -153,6 +154,7 @@
     <ClInclude Include="리틀_프렌즈_사천성.h" />
     <ClInclude Include="브라이언의_고민.h" />
     <ClInclude Include="소수_찾기.h" />
+    <ClInclude Include="순위.h" />
     <ClInclude Include="예상_대진표.h" />
     <ClInclude Include="입국심사.h" />
     <ClInclude Include="전화번호_목록.h" />
