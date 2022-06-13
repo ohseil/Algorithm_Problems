@@ -2,7 +2,7 @@
 
 int main() {
 
-	예상_대진표::service();
+	순위::service();
 
 	return 0;
 }
