@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="GPS.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="가장_먼_노드.cpp" />
     <ClCompile Include="가장_큰_수.cpp" />
@@ -145,6 +146,7 @@
     <ClCompile Include="프린터.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="GPS.h" />
     <ClInclude Include="main_header.h" />
     <ClInclude Include="가장_먼_노드.h" />
     <ClInclude Include="가장_큰_수.h" />
