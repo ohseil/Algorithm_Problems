@@ -2,7 +2,7 @@
 
 int main() {
 
-	¼øÀ§::service();
+	GPS::service();
 
 	return 0;
 }
