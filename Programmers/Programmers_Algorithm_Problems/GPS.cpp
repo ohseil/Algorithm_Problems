@@ -1,7 +1,6 @@
 #include "GPS.h"
 #include <iostream>
 #include <vector>
-#include <limits>
 #include <limits.h>
 
 using namespace std;

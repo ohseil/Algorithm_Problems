@@ -2,7 +2,7 @@
 
 int main() {
 
-	GPS::service();
+	금과_은_운반하기::service();
 
 	return 0;
 }
