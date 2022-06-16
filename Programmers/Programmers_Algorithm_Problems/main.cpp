@@ -2,7 +2,7 @@
 
 int main() {
 
-	_2xN_타일링::service();
+	위장::service();
 
 	return 0;
 }

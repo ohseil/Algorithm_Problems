@@ -81,6 +81,9 @@
     <ClCompile Include="2xn_타일링.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="위장.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -141,6 +144,9 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="2xn_타일링.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="위장.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>

@@ -18,3 +18,4 @@
 #include "금과_은_운반하기.h"
 #include "괄호_회전하기.h"
 #include "2xn_타일링.h"
+#include "위장.h"
