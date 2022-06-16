@@ -2,7 +2,7 @@
 
 int main() {
 
-	괄호_회전하기::service();
+	_2xN_타일링::service();
 
 	return 0;
 }
