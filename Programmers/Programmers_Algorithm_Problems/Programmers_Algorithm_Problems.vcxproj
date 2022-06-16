@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="2xn_타일링.cpp" />
     <ClCompile Include="GPS.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="가장_먼_노드.cpp" />
@@ -148,6 +149,7 @@
     <ClCompile Include="프린터.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="2xn_타일링.h" />
     <ClInclude Include="GPS.h" />
     <ClInclude Include="main_header.h" />
     <ClInclude Include="가장_먼_노드.h" />
