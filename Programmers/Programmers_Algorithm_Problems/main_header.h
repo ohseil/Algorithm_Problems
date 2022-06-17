@@ -19,3 +19,4 @@
 #include "괄호_회전하기.h"
 #include "2xn_타일링.h"
 #include "위장.h"
+#include "다리를_지나는_트럭.h"
