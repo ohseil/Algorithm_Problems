@@ -104,6 +104,8 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
+      <LanguageStandard_C>stdc17</LanguageStandard_C>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -136,6 +138,7 @@
     <ClCompile Include="괄호_회전하기.cpp" />
     <ClCompile Include="금과_은_운반하기.cpp" />
     <ClCompile Include="네트워크.cpp" />
+    <ClCompile Include="다리를_지나는_트럭.cpp" />
     <ClCompile Include="디스크_컨트롤러.cpp" />
     <ClCompile Include="리틀_프렌즈_사천성.cpp" />
     <ClCompile Include="브라이언의_고민.cpp" />
@@ -159,6 +162,7 @@
     <ClInclude Include="괄호_회전하기.h" />
     <ClInclude Include="금과_은_운반하기.h" />
     <ClInclude Include="네트워크.h" />
+    <ClInclude Include="다리를_지나는_트럭.h" />
     <ClInclude Include="디스크_컨트롤러.h" />
     <ClInclude Include="리틀_프렌즈_사천성.h" />
     <ClInclude Include="브라이언의_고민.h" />
