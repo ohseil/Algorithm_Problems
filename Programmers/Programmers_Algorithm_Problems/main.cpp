@@ -2,7 +2,7 @@
 
 int main() {
 
-	다리를_지나는_트럭::service();
+	이중우선순위큐::service();
 
 	return 0;
 }
