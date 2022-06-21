@@ -21,3 +21,4 @@
 #include "위장.h"
 #include "다리를_지나는_트럭.h"
 #include "이중우선순위큐.h"
+#include "H-Index.h"
