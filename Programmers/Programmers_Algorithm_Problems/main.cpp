@@ -2,7 +2,7 @@
 
 int main() {
 
-	H_Index::service();
+	Ä«Æê::service();
 
 	return 0;
 }
