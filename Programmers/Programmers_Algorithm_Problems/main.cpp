@@ -2,7 +2,7 @@
 
 int main() {
 
-	카펫::service();
+	큰_수_만들기::service();
 
 	return 0;
 }
