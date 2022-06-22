@@ -153,6 +153,7 @@
     <ClCompile Include="정수_삼각형.cpp" />
     <ClCompile Include="조이스틱.cpp" />
     <ClCompile Include="카펫.cpp" />
+    <ClCompile Include="큰_수_만들기.cpp" />
     <ClCompile Include="프린터.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -180,6 +181,7 @@
     <ClInclude Include="정수_삼각형.h" />
     <ClInclude Include="조이스틱.h" />
     <ClInclude Include="카펫.h" />
+    <ClInclude Include="큰_수_만들기.h" />
     <ClInclude Include="프린터.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
