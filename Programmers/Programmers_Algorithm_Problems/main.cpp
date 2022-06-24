@@ -2,7 +2,7 @@
 
 int main() {
 
-	등굣길::service();
+	단어_변환::service();
 
 	return 0;
 }

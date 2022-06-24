@@ -140,6 +140,7 @@
     <ClCompile Include="금과_은_운반하기.cpp" />
     <ClCompile Include="네트워크.cpp" />
     <ClCompile Include="다리를_지나는_트럭.cpp" />
+    <ClCompile Include="단어_변환.cpp" />
     <ClCompile Include="등굣길.cpp" />
     <ClCompile Include="디스크_컨트롤러.cpp" />
     <ClCompile Include="리틀_프렌즈_사천성.cpp" />
@@ -169,6 +170,7 @@
     <ClInclude Include="금과_은_운반하기.h" />
     <ClInclude Include="네트워크.h" />
     <ClInclude Include="다리를_지나는_트럭.h" />
+    <ClInclude Include="단어_변환.h" />
     <ClInclude Include="등굣길.h" />
     <ClInclude Include="디스크_컨트롤러.h" />
     <ClInclude Include="리틀_프렌즈_사천성.h" />
