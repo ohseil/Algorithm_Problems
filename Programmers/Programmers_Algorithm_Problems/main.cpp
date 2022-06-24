@@ -2,7 +2,7 @@
 
 int main() {
 
-	큰_수_만들기::service();
+	등굣길::service();
 
 	return 0;
 }
