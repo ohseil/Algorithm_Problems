@@ -157,6 +157,7 @@
     <ClCompile Include="카펫.cpp" />
     <ClCompile Include="큰_수_만들기.cpp" />
     <ClCompile Include="프린터.cpp" />
+    <ClCompile Include="피로도.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="2xn_타일링.h" />
@@ -187,6 +188,7 @@
     <ClInclude Include="카펫.h" />
     <ClInclude Include="큰_수_만들기.h" />
     <ClInclude Include="프린터.h" />
+    <ClInclude Include="피로도.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
