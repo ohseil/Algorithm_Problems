@@ -2,7 +2,7 @@
 
 int main() {
 
-	단어_변환::service();
+	피로도::service();
 
 	return 0;
 }
