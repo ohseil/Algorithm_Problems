@@ -2,7 +2,7 @@
 
 int main() {
 
-	피로도::service();
+	몸짱_트레이너_라이언의_고민::service();
 
 	return 0;
 }

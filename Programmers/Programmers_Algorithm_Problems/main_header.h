@@ -27,3 +27,4 @@
 #include "등굣길.h"
 #include "단어_변환.h"
 #include "피로도.h"
+#include "몸짱_트레이너_라이언의_고민.h"

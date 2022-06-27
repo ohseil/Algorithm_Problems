@@ -144,6 +144,7 @@
     <ClCompile Include="등굣길.cpp" />
     <ClCompile Include="디스크_컨트롤러.cpp" />
     <ClCompile Include="리틀_프렌즈_사천성.cpp" />
+    <ClCompile Include="몸짱_트레이너_라이언의_고민.cpp" />
     <ClCompile Include="브라이언의_고민.cpp" />
     <ClCompile Include="소수_찾기.cpp" />
     <ClCompile Include="순위.cpp" />
@@ -175,6 +176,7 @@
     <ClInclude Include="등굣길.h" />
     <ClInclude Include="디스크_컨트롤러.h" />
     <ClInclude Include="리틀_프렌즈_사천성.h" />
+    <ClInclude Include="몸짱_트레이너_라이언의_고민.h" />
     <ClInclude Include="브라이언의_고민.h" />
     <ClInclude Include="소수_찾기.h" />
     <ClInclude Include="순위.h" />
