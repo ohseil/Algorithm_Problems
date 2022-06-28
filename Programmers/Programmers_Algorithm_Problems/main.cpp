@@ -2,7 +2,7 @@
 
 int main() {
 
-	몸짱_트레이너_라이언의_고민::service();
+	_2개_이하로_다른_비트::service();
 
 	return 0;
 }

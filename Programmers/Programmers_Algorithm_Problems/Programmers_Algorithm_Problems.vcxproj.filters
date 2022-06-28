@@ -111,6 +111,9 @@
     <ClCompile Include="몸짱_트레이너_라이언의_고민.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="2개_이하로_다른_비트.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -201,6 +204,9 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="몸짱_트레이너_라이언의_고민.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="2개_이하로_다른_비트.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>
