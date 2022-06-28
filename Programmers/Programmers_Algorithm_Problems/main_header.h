@@ -28,3 +28,4 @@
 #include "단어_변환.h"
 #include "피로도.h"
 #include "몸짱_트레이너_라이언의_고민.h"
+#include "2개_이하로_다른_비트.h"
