@@ -2,7 +2,7 @@
 
 int main() {
 
-	_2개_이하로_다른_비트::service();
+	베스트앨범::service();
 
 	return 0;
 }
