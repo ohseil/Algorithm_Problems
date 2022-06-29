@@ -2,7 +2,7 @@
 
 int main() {
 
-	베스트앨범::service();
+	주식가격::service();
 
 	return 0;
 }
