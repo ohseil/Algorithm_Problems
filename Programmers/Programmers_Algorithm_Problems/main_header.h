@@ -30,3 +30,4 @@
 #include "몸짱_트레이너_라이언의_고민.h"
 #include "2개_이하로_다른_비트.h"
 #include "베스트앨범.h"
+#include "주식가격.h"
