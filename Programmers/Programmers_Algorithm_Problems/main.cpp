@@ -2,7 +2,7 @@
 
 int main() {
 
-	주식가격::service();
+	구명보트::service();
 
 	return 0;
 }
