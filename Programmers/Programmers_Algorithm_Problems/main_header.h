@@ -31,3 +31,4 @@
 #include "2개_이하로_다른_비트.h"
 #include "베스트앨범.h"
 #include "주식가격.h"
+#include "구명보트.h"
