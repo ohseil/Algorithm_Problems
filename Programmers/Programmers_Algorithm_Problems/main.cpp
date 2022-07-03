@@ -2,7 +2,7 @@
 
 int main() {
 
-	구명보트::service();
+	아이템_줍기::service();
 
 	return 0;
 }

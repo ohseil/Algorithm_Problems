@@ -32,3 +32,4 @@
 #include "베스트앨범.h"
 #include "주식가격.h"
 #include "구명보트.h"
+#include "아이템_줍기.h"
