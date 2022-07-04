@@ -33,3 +33,4 @@
 #include "주식가격.h"
 #include "구명보트.h"
 #include "아이템_줍기.h"
+#include "교점에_별_만들기.h"

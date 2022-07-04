@@ -138,6 +138,7 @@
     <ClCompile Include="가장_큰_수.cpp" />
     <ClCompile Include="게임_맵_최단거리.cpp" />
     <ClCompile Include="괄호_회전하기.cpp" />
+    <ClCompile Include="교점에_별_만들기.cpp" />
     <ClCompile Include="구명보트.cpp" />
     <ClCompile Include="금과_은_운반하기.cpp" />
     <ClCompile Include="네트워크.cpp" />
@@ -175,6 +176,7 @@
     <ClInclude Include="가장_큰_수.h" />
     <ClInclude Include="게임_맵_최단거리.h" />
     <ClInclude Include="괄호_회전하기.h" />
+    <ClInclude Include="교점에_별_만들기.h" />
     <ClInclude Include="구명보트.h" />
     <ClInclude Include="금과_은_운반하기.h" />
     <ClInclude Include="네트워크.h" />
