@@ -2,7 +2,7 @@
 
 int main() {
 
-	아이템_줍기::service();
+	교점에_별_만들기::service();
 
 	return 0;
 }
