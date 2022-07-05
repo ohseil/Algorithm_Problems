@@ -157,6 +157,7 @@
     <ClCompile Include="위장.cpp" />
     <ClCompile Include="이중우선순위큐.cpp" />
     <ClCompile Include="입국심사.cpp" />
+    <ClCompile Include="전력망을_둘로_나누기.cpp" />
     <ClCompile Include="전화번호_목록.cpp" />
     <ClCompile Include="정수_삼각형.cpp" />
     <ClCompile Include="조이스틱.cpp" />
@@ -195,6 +196,7 @@
     <ClInclude Include="위장.h" />
     <ClInclude Include="이중우선순위큐.h" />
     <ClInclude Include="입국심사.h" />
+    <ClInclude Include="전력망을_둘로_나누기.h" />
     <ClInclude Include="전화번호_목록.h" />
     <ClInclude Include="정수_삼각형.h" />
     <ClInclude Include="조이스틱.h" />
