@@ -34,3 +34,4 @@
 #include "구명보트.h"
 #include "아이템_줍기.h"
 #include "교점에_별_만들기.h"
+#include "전력망을_둘로_나누기.h"

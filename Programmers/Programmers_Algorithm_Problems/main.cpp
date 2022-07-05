@@ -2,7 +2,7 @@
 
 int main() {
 
-	교점에_별_만들기::service();
+	전력망을_둘로_나누기::service();
 
 	return 0;
 }
