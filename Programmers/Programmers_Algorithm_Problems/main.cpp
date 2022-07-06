@@ -2,7 +2,7 @@
 
 int main() {
 
-	전력망을_둘로_나누기::service();
+	모음사전::service();
 
 	return 0;
 }
