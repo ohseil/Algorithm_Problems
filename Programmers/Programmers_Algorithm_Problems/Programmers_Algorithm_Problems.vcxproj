@@ -164,6 +164,7 @@
     <ClCompile Include="조이스틱.cpp" />
     <ClCompile Include="주식가격.cpp" />
     <ClCompile Include="카펫.cpp" />
+    <ClCompile Include="캠핑.cpp" />
     <ClCompile Include="큰_수_만들기.cpp" />
     <ClCompile Include="프린터.cpp" />
     <ClCompile Include="피로도.cpp" />
@@ -204,6 +205,7 @@
     <ClInclude Include="조이스틱.h" />
     <ClInclude Include="주식가격.h" />
     <ClInclude Include="카펫.h" />
+    <ClInclude Include="캠핑.h" />
     <ClInclude Include="큰_수_만들기.h" />
     <ClInclude Include="프린터.h" />
     <ClInclude Include="피로도.h" />

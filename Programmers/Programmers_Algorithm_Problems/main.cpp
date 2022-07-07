@@ -2,7 +2,7 @@
 
 int main() {
 
-	모음사전::service();
+	캠핑::service();
 
 	return 0;
 }
