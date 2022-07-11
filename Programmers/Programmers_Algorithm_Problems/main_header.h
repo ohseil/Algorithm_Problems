@@ -37,3 +37,4 @@
 #include "전력망을_둘로_나누기.h"
 #include "모음사전.h"
 #include "캠핑.h"
+#include "모두_0으로_만들기.h"
