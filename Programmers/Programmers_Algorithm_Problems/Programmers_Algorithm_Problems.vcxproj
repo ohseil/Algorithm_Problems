@@ -158,6 +158,7 @@
     <ClCompile Include="예상_대진표.cpp" />
     <ClCompile Include="위장.cpp" />
     <ClCompile Include="이중우선순위큐.cpp" />
+    <ClCompile Include="이진_변환_반복하기.cpp" />
     <ClCompile Include="입국심사.cpp" />
     <ClCompile Include="전력망을_둘로_나누기.cpp" />
     <ClCompile Include="전화번호_목록.cpp" />
@@ -200,6 +201,7 @@
     <ClInclude Include="예상_대진표.h" />
     <ClInclude Include="위장.h" />
     <ClInclude Include="이중우선순위큐.h" />
+    <ClInclude Include="이진_변환_반복하기.h" />
     <ClInclude Include="입국심사.h" />
     <ClInclude Include="전력망을_둘로_나누기.h" />
     <ClInclude Include="전화번호_목록.h" />

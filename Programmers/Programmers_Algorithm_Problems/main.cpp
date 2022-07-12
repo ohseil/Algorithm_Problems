@@ -2,7 +2,7 @@
 
 int main() {
 	
-	모두_0으로_만들기::service();
+	이진_변환_반복하기::service();
 
 	return 0;
 }
