@@ -144,6 +144,9 @@
     <ClCompile Include="이진_변환_반복하기.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="3xn_타일링.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -267,6 +270,9 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="이진_변환_반복하기.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="3xn_타일링.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>

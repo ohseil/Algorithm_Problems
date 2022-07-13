@@ -131,6 +131,7 @@
   <ItemGroup>
     <ClCompile Include="2xn_타일링.cpp" />
     <ClCompile Include="2개_이하로_다른_비트.cpp" />
+    <ClCompile Include="3xn_타일링.cpp" />
     <ClCompile Include="GPS.cpp" />
     <ClCompile Include="H-Index.cpp" />
     <ClCompile Include="main.cpp" />
@@ -174,6 +175,7 @@
   <ItemGroup>
     <ClInclude Include="2xn_타일링.h" />
     <ClInclude Include="2개_이하로_다른_비트.h" />
+    <ClInclude Include="3xn_타일링.h" />
     <ClInclude Include="GPS.h" />
     <ClInclude Include="H-Index.h" />
     <ClInclude Include="main_header.h" />
