@@ -2,7 +2,7 @@
 
 int main() {
 	
-	이진_변환_반복하기::service();
+	_3xN_타일링::service();
 
 	return 0;
 }
