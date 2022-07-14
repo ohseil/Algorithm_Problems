@@ -2,7 +2,7 @@
 
 int main() {
 	
-	_3xN_타일링::service();
+	섬_연결하기::service();
 
 	return 0;
 }
