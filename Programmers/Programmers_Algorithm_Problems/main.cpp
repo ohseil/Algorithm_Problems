@@ -2,7 +2,7 @@
 
 int main() {
 	
-	섬_연결하기::service();
+	NN_배열_자르기::service();
 
 	return 0;
 }

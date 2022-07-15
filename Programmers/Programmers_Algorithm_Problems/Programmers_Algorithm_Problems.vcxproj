@@ -135,6 +135,7 @@
     <ClCompile Include="GPS.cpp" />
     <ClCompile Include="H-Index.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="n^2_배열_자르기.cpp" />
     <ClCompile Include="가장_먼_노드.cpp" />
     <ClCompile Include="가장_큰_수.cpp" />
     <ClCompile Include="게임_맵_최단거리.cpp" />
@@ -180,6 +181,7 @@
     <ClInclude Include="GPS.h" />
     <ClInclude Include="H-Index.h" />
     <ClInclude Include="main_header.h" />
+    <ClInclude Include="n^2_배열_자르기.h" />
     <ClInclude Include="가장_먼_노드.h" />
     <ClInclude Include="가장_큰_수.h" />
     <ClInclude Include="게임_맵_최단거리.h" />

@@ -41,3 +41,4 @@
 #include "이진_변환_반복하기.h"
 #include "3xn_타일링.h"
 #include "섬_연결하기.h"
+#include "n^2_배열_자르기.h"
