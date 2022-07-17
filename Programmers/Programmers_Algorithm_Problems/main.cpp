@@ -2,7 +2,7 @@
 
 int main() {
 	
-	NN_배열_자르기::service();
+	_110_옮기기::service();
 
 	return 0;
 }

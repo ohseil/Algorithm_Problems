@@ -42,3 +42,5 @@
 #include "3xn_타일링.h"
 #include "섬_연결하기.h"
 #include "n^2_배열_자르기.h"
+#include "쿼드압축_후_개수_세기.h"
+#include "110_옮기기.h"
