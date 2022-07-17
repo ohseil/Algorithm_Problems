@@ -153,6 +153,12 @@
     <ClCompile Include="n^2_배열_자르기.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="쿼드압축_후_개수_세기.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
+    <ClCompile Include="110_옮기기.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -285,6 +291,12 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="n^2_배열_자르기.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="쿼드압축_후_개수_세기.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="110_옮기기.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>
