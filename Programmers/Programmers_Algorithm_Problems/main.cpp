@@ -2,7 +2,7 @@
 
 int main() {
 	
-	_110_옮기기::service();
+	단속카메라::service();
 
 	return 0;
 }

@@ -44,3 +44,4 @@
 #include "n^2_배열_자르기.h"
 #include "쿼드압축_후_개수_세기.h"
 #include "110_옮기기.h"
+#include "단속카메라.h"
