@@ -45,3 +45,4 @@
 #include "쿼드압축_후_개수_세기.h"
 #include "110_옮기기.h"
 #include "단속카메라.h"
+#include "공_이동_시뮬레이션.h"

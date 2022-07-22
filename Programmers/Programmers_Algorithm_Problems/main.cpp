@@ -2,7 +2,7 @@
 
 int main() {
 	
-	단속카메라::service();
+	공_이동_시뮬레이션::service();
 
 	return 0;
 }
