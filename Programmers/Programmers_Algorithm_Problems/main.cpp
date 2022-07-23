@@ -2,7 +2,7 @@
 
 int main() {
 	
-	공_이동_시뮬레이션::service();
+	가장_긴_팰린드롬::service();
 
 	return 0;
 }
