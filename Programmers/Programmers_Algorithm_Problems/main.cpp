@@ -2,7 +2,7 @@
 
 int main() {
 	
-	가장_긴_팰린드롬::service();
+	스타_수열::service();
 
 	return 0;
 }
