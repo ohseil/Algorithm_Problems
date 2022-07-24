@@ -47,3 +47,4 @@
 #include "단속카메라.h"
 #include "공_이동_시뮬레이션.h"
 #include "가장_긴_팰린드롬.h"
+#include "스타_수열.h"
