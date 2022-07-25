@@ -2,7 +2,7 @@
 
 int main() {
 	
-	스타_수열::service();
+	가장_큰_정사각형_찾기::service();
 
 	return 0;
 }
