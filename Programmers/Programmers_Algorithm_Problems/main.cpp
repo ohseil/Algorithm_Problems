@@ -2,7 +2,7 @@
 
 int main() {
 	
-	가장_큰_정사각형_찾기::service();
+	올바른_괄호::service();
 
 	return 0;
 }
