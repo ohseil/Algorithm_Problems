@@ -174,6 +174,9 @@
     <ClCompile Include="가장_큰_정사각형_찾기.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="올바른_괄호.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -327,6 +330,9 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="가장_큰_정사각형_찾기.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="올바른_괄호.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>
