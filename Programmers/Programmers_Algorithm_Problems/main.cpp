@@ -2,7 +2,7 @@
 
 int main() {
 	
-	거스름돈::service();
+	다음_큰_숫자::service();
 
 	return 0;
 }
