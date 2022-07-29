@@ -141,6 +141,7 @@
     <ClCompile Include="가장_먼_노드.cpp" />
     <ClCompile Include="가장_큰_수.cpp" />
     <ClCompile Include="가장_큰_정사각형_찾기.cpp" />
+    <ClCompile Include="거스름돈.cpp" />
     <ClCompile Include="게임_맵_최단거리.cpp" />
     <ClCompile Include="공_이동_시뮬레이션.cpp" />
     <ClCompile Include="괄호_회전하기.cpp" />
@@ -195,6 +196,7 @@
     <ClInclude Include="가장_먼_노드.h" />
     <ClInclude Include="가장_큰_수.h" />
     <ClInclude Include="가장_큰_정사각형_찾기.h" />
+    <ClInclude Include="거스름돈.h" />
     <ClInclude Include="게임_맵_최단거리.h" />
     <ClInclude Include="공_이동_시뮬레이션.h" />
     <ClInclude Include="괄호_회전하기.h" />

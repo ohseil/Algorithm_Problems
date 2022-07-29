@@ -2,7 +2,7 @@
 
 int main() {
 	
-	올바른_괄호::service();
+	거스름돈::service();
 
 	return 0;
 }
