@@ -51,3 +51,4 @@
 #include "가장_큰_정사각형_찾기.h"
 #include "올바른_괄호.h"
 #include "거스름돈.h"
+#include "다음_큰_숫자.h"

@@ -180,6 +180,9 @@
     <ClCompile Include="거스름돈.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="다음_큰_숫자.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -339,6 +342,9 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="거스름돈.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="다음_큰_숫자.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>
