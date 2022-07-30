@@ -2,7 +2,7 @@
 
 int main() {
 	
-	다음_큰_숫자::service();
+	땅따먹기::service();
 
 	return 0;
 }
