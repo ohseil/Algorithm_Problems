@@ -54,3 +54,4 @@
 #include "다음_큰_숫자.h"
 #include "땅따먹기.h"
 #include "멀리_뛰기.h"
+#include "k진수에서_소수_개수_구하기.h"

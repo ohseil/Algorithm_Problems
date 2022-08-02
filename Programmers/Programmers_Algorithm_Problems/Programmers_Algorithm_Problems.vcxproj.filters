@@ -189,6 +189,9 @@
     <ClCompile Include="멀리_뛰기.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="k진수에서_소수_개수_구하기.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -357,6 +360,9 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="멀리_뛰기.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="k진수에서_소수_개수_구하기.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>
