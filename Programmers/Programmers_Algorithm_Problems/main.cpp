@@ -2,7 +2,7 @@
 
 int main() {
 	
-	k진수에서_소수_개수_구하기::service();
+	선입_선출_스케줄링::service();
 
 	return 0;
 }
