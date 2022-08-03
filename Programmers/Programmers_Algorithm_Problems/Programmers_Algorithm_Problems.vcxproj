@@ -164,6 +164,7 @@
     <ClCompile Include="몸짱_트레이너_라이언의_고민.cpp" />
     <ClCompile Include="베스트앨범.cpp" />
     <ClCompile Include="브라이언의_고민.cpp" />
+    <ClCompile Include="선입_선출_스케줄링.cpp" />
     <ClCompile Include="섬_연결하기.cpp" />
     <ClCompile Include="소수_찾기.cpp" />
     <ClCompile Include="순위.cpp" />
@@ -223,6 +224,7 @@
     <ClInclude Include="몸짱_트레이너_라이언의_고민.h" />
     <ClInclude Include="베스트앨범.h" />
     <ClInclude Include="브라이언의_고민.h" />
+    <ClInclude Include="선입_선출_스케줄링.h" />
     <ClInclude Include="섬_연결하기.h" />
     <ClInclude Include="소수_찾기.h" />
     <ClInclude Include="순위.h" />
