@@ -195,6 +195,9 @@
     <ClCompile Include="선입_선출_스케줄링.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="숫자_블록.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -369,6 +372,9 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="선입_선출_스케줄링.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="숫자_블록.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>

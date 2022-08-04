@@ -2,7 +2,7 @@
 
 int main() {
 	
-	선입_선출_스케줄링::service();
+	숫자_블록::service();
 
 	return 0;
 }
