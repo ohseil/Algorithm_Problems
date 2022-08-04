@@ -168,6 +168,7 @@
     <ClCompile Include="섬_연결하기.cpp" />
     <ClCompile Include="소수_찾기.cpp" />
     <ClCompile Include="순위.cpp" />
+    <ClCompile Include="숫자_블록.cpp" />
     <ClCompile Include="스타_수열.cpp" />
     <ClCompile Include="아이템_줍기.cpp" />
     <ClCompile Include="예상_대진표.cpp" />
@@ -228,6 +229,7 @@
     <ClInclude Include="섬_연결하기.h" />
     <ClInclude Include="소수_찾기.h" />
     <ClInclude Include="순위.h" />
+    <ClInclude Include="숫자_블록.h" />
     <ClInclude Include="스타_수열.h" />
     <ClInclude Include="아이템_줍기.h" />
     <ClInclude Include="예상_대진표.h" />
