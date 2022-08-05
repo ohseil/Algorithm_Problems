@@ -58,3 +58,4 @@
 #include "선입_선출_스케줄링.h"
 #include "숫자_블록.h"
 #include "숫자의_표현.h"
+#include "야근_지수.h"

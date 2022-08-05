@@ -2,7 +2,7 @@
 
 int main() {
 	
-	숫자의_표현::service();
+	야근_지수::service();
 
 	return 0;
 }
