@@ -2,7 +2,7 @@
 
 int main() {
 	
-	숫자_블록::service();
+	숫자의_표현::service();
 
 	return 0;
 }

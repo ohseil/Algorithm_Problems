@@ -57,3 +57,4 @@
 #include "k진수에서_소수_개수_구하기.h"
 #include "선입_선출_스케줄링.h"
 #include "숫자_블록.h"
+#include "숫자의_표현.h"
