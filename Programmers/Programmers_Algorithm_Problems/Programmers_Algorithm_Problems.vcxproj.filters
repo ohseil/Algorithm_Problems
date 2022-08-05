@@ -201,6 +201,9 @@
     <ClCompile Include="숫자의_표현.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="야근_지수.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -381,6 +384,9 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="숫자의_표현.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="야근_지수.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>
