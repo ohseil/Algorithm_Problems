@@ -2,7 +2,7 @@
 
 int main() {
 	
-	야근_지수::service();
+	줄_서는_방법::service();
 
 	return 0;
 }
