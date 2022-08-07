@@ -59,3 +59,4 @@
 #include "숫자_블록.h"
 #include "숫자의_표현.h"
 #include "야근_지수.h"
+#include "줄_서는_방법.h"
