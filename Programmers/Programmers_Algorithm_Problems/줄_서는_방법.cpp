@@ -25,6 +25,8 @@ vector<int> solution(int n, long long k) {
     // 이 과정을 통해서 첫번째 자리의 숫자부터 마지막 자리의 숫자까지 선택해 나간다.
     // 도중에 k가 0이 되는 경우는 배열에 남아있는 숫자를 그대로 선택하면 된다.
 
+    // k-- 를 해준 이유는 k-1을 해주어야 계산이 맞다.
+
     vector<int> answer;
     vector<int> numV;
     long long factorial = 1;
