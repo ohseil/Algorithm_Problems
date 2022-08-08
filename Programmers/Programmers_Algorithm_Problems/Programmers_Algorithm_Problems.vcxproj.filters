@@ -207,6 +207,9 @@
     <ClCompile Include="줄_서는_방법.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="주차_요금_계산.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -393,6 +396,9 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="줄_서는_방법.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="주차_요금_계산.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>
