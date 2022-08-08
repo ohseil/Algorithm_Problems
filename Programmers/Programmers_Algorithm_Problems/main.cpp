@@ -2,7 +2,7 @@
 
 int main() {
 	
-	줄_서는_방법::service();
+	주차_요금_계산::service();
 
 	return 0;
 }

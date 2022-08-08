@@ -184,6 +184,7 @@
     <ClCompile Include="정수_삼각형.cpp" />
     <ClCompile Include="조이스틱.cpp" />
     <ClCompile Include="주식가격.cpp" />
+    <ClCompile Include="주차_요금_계산.cpp" />
     <ClCompile Include="줄_서는_방법.cpp" />
     <ClCompile Include="카펫.cpp" />
     <ClCompile Include="캠핑.cpp" />
@@ -248,6 +249,7 @@
     <ClInclude Include="정수_삼각형.h" />
     <ClInclude Include="조이스틱.h" />
     <ClInclude Include="주식가격.h" />
+    <ClInclude Include="주차_요금_계산.h" />
     <ClInclude Include="줄_서는_방법.h" />
     <ClInclude Include="카펫.h" />
     <ClInclude Include="캠핑.h" />
