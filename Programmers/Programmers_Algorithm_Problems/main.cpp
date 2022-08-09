@@ -2,7 +2,7 @@
 
 int main() {
 	
-	주차_요금_계산::service();
+	최고의_집합::service();
 
 	return 0;
 }

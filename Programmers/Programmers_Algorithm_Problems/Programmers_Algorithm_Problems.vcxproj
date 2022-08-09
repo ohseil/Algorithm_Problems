@@ -186,6 +186,7 @@
     <ClCompile Include="주식가격.cpp" />
     <ClCompile Include="주차_요금_계산.cpp" />
     <ClCompile Include="줄_서는_방법.cpp" />
+    <ClCompile Include="최고의_집합.cpp" />
     <ClCompile Include="카펫.cpp" />
     <ClCompile Include="캠핑.cpp" />
     <ClCompile Include="쿼드압축_후_개수_세기.cpp" />
@@ -251,6 +252,7 @@
     <ClInclude Include="주식가격.h" />
     <ClInclude Include="주차_요금_계산.h" />
     <ClInclude Include="줄_서는_방법.h" />
+    <ClInclude Include="최고의_집합.h" />
     <ClInclude Include="카펫.h" />
     <ClInclude Include="캠핑.h" />
     <ClInclude Include="쿼드압축_후_개수_세기.h" />
