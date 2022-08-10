@@ -2,7 +2,7 @@
 
 int main() {
 	
-	최댓값과_최솟값::service();
+	최솟값_만들기::service();
 
 	return 0;
 }
