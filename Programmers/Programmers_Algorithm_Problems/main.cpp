@@ -2,7 +2,7 @@
 
 int main() {
 	
-	최고의_집합::service();
+	최댓값과_최솟값::service();
 
 	return 0;
 }
