@@ -2,7 +2,7 @@
 
 int main() {
 	
-	최솟값_만들기::service();
+	최적의_행렬_곱셈::service();
 
 	return 0;
 }
