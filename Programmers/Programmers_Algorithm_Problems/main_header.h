@@ -65,3 +65,5 @@
 #include "최댓값과_최솟값.h"
 #include "최솟값_만들기.h"
 #include "최적의_행렬_곱셈.h"
+#include "피보나치_수.h"
+#include "하노이의_탑.h"
