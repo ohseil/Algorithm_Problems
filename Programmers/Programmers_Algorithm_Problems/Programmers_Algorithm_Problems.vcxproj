@@ -196,6 +196,8 @@
     <ClCompile Include="큰_수_만들기.cpp" />
     <ClCompile Include="프린터.cpp" />
     <ClCompile Include="피로도.cpp" />
+    <ClCompile Include="피보나치_수.cpp" />
+    <ClCompile Include="하노이의_탑.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="110_옮기기.h" />
@@ -265,6 +267,8 @@
     <ClInclude Include="큰_수_만들기.h" />
     <ClInclude Include="프린터.h" />
     <ClInclude Include="피로도.h" />
+    <ClInclude Include="피보나치_수.h" />
+    <ClInclude Include="하노이의_탑.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

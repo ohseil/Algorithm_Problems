@@ -2,7 +2,7 @@
 
 int main() {
 	
-	최적의_행렬_곱셈::service();
+	하노이의_탑::service();
 
 	return 0;
 }
