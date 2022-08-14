@@ -2,7 +2,7 @@
 
 int main() {
 	
-	하노이의_탑::service();
+	행렬의_곱셈::service();
 
 	return 0;
 }
