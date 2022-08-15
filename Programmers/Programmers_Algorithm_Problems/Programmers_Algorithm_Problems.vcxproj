@@ -135,6 +135,7 @@
     <ClCompile Include="3xn_타일링.cpp" />
     <ClCompile Include="GPS.cpp" />
     <ClCompile Include="H-Index.cpp" />
+    <ClCompile Include="JadenCase_문자열_만들기.cpp" />
     <ClCompile Include="k진수에서_소수_개수_구하기.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="n^2_배열_자르기.cpp" />
@@ -207,6 +208,7 @@
     <ClInclude Include="3xn_타일링.h" />
     <ClInclude Include="GPS.h" />
     <ClInclude Include="H-Index.h" />
+    <ClInclude Include="JadenCase_문자열_만들기.h" />
     <ClInclude Include="k진수에서_소수_개수_구하기.h" />
     <ClInclude Include="main_header.h" />
     <ClInclude Include="n^2_배열_자르기.h" />
