@@ -2,7 +2,7 @@
 
 int main() {
 	
-	행렬의_곱셈::service();
+	JadenCase_문자열_만들기::service();
 
 	return 0;
 }
