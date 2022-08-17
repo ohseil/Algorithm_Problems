@@ -69,3 +69,4 @@
 #include "하노이의_탑.h"
 #include "행렬의_곱셈.h"
 #include "JadenCase_문자열_만들기.h"
+#include "N-Queen.h"
