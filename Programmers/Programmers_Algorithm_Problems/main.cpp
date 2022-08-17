@@ -2,7 +2,7 @@
 
 int main() {
 	
-	JadenCase_문자열_만들기::service();
+	NQueen::service();
 
 	return 0;
 }
