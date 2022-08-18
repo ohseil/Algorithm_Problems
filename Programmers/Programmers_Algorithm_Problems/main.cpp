@@ -2,7 +2,7 @@
 
 int main() {
 	
-	NQueen::service();
+	N개의_최소공배수::service();
 
 	return 0;
 }
