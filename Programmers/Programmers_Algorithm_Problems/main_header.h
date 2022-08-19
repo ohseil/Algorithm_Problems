@@ -71,3 +71,4 @@
 #include "JadenCase_문자열_만들기.h"
 #include "N-Queen.h"
 #include "N개의_최소공배수.h"
+#include "양궁대회.h"
