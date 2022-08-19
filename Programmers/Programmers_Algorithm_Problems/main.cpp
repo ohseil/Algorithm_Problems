@@ -2,7 +2,7 @@
 
 int main() {
 	
-	N개의_최소공배수::service();
+	양궁대회::service();
 
 	return 0;
 }
