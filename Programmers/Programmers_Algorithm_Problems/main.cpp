@@ -2,7 +2,7 @@
 
 int main() {
 	
-	파괴되지_않은_건물::service();
+	양과_늑대::service();
 
 	return 0;
 }

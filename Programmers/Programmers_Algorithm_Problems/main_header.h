@@ -73,3 +73,4 @@
 #include "N개의_최소공배수.h"
 #include "양궁대회.h"
 #include "파괴되지_않은_건물.h"
+#include "양과_늑대.h"

@@ -243,6 +243,12 @@
     <ClCompile Include="양궁대회.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="파괴되지_않은_건물.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="양과_늑대.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -465,6 +471,12 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="양궁대회.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="파괴되지_않은_건물.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="양과_늑대.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>
