@@ -176,6 +176,7 @@
     <ClCompile Include="스타_수열.cpp" />
     <ClCompile Include="아이템_줍기.cpp" />
     <ClCompile Include="야근_지수.cpp" />
+    <ClCompile Include="양과_늑대.cpp" />
     <ClCompile Include="양궁대회.cpp" />
     <ClCompile Include="예상_대진표.cpp" />
     <ClCompile Include="올바른_괄호.cpp" />
@@ -253,6 +254,7 @@
     <ClInclude Include="스타_수열.h" />
     <ClInclude Include="아이템_줍기.h" />
     <ClInclude Include="야근_지수.h" />
+    <ClInclude Include="양과_늑대.h" />
     <ClInclude Include="양궁대회.h" />
     <ClInclude Include="예상_대진표.h" />
     <ClInclude Include="올바른_괄호.h" />
