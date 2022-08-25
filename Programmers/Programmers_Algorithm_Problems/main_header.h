@@ -74,3 +74,4 @@
 #include "양궁대회.h"
 #include "파괴되지_않은_건물.h"
 #include "양과_늑대.h"
+#include "사라지는_발판.h"
