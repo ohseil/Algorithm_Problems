@@ -2,7 +2,7 @@
 
 int main() {
 	
-	양과_늑대::service();
+	사라지는_발판::service();
 
 	return 0;
 }
