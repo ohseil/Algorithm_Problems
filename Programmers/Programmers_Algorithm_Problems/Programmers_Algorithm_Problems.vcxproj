@@ -157,6 +157,7 @@
     <ClCompile Include="다음_큰_숫자.cpp" />
     <ClCompile Include="단속카메라.cpp" />
     <ClCompile Include="단어_변환.cpp" />
+    <ClCompile Include="두_큐_합_같게_만들기.cpp" />
     <ClCompile Include="등굣길.cpp" />
     <ClCompile Include="디스크_컨트롤러.cpp" />
     <ClCompile Include="땅따먹기.cpp" />
@@ -236,6 +237,7 @@
     <ClInclude Include="다음_큰_숫자.h" />
     <ClInclude Include="단속카메라.h" />
     <ClInclude Include="단어_변환.h" />
+    <ClInclude Include="두_큐_합_같게_만들기.h" />
     <ClInclude Include="등굣길.h" />
     <ClInclude Include="디스크_컨트롤러.h" />
     <ClInclude Include="땅따먹기.h" />
