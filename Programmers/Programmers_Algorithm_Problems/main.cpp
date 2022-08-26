@@ -2,7 +2,7 @@
 
 int main() {
 	
-	사라지는_발판::service();
+	두_큐_합_같게_만들기::service();
 
 	return 0;
 }
