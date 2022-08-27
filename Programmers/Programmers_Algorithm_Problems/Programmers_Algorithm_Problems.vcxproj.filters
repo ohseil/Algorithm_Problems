@@ -255,6 +255,9 @@
     <ClCompile Include="두_큐_합_같게_만들기.cpp">
       <Filter>소스 파일\problem</Filter>
     </ClCompile>
+    <ClCompile Include="코딩_테스트_공부.cpp">
+      <Filter>소스 파일\problem</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -489,6 +492,9 @@
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
     <ClInclude Include="두_큐_합_같게_만들기.h">
+      <Filter>헤더 파일\problem</Filter>
+    </ClInclude>
+    <ClInclude Include="코딩_테스트_공부.h">
       <Filter>헤더 파일\problem</Filter>
     </ClInclude>
   </ItemGroup>
