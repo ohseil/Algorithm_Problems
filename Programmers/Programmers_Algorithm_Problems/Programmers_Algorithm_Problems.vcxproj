@@ -199,6 +199,7 @@
     <ClCompile Include="최적의_행렬_곱셈.cpp" />
     <ClCompile Include="카펫.cpp" />
     <ClCompile Include="캠핑.cpp" />
+    <ClCompile Include="코딩_테스트_공부.cpp" />
     <ClCompile Include="쿼드압축_후_개수_세기.cpp" />
     <ClCompile Include="큰_수_만들기.cpp" />
     <ClCompile Include="파괴되지_않은_건물.cpp" />
@@ -279,6 +280,7 @@
     <ClInclude Include="최적의_행렬_곱셈.h" />
     <ClInclude Include="카펫.h" />
     <ClInclude Include="캠핑.h" />
+    <ClInclude Include="코딩_테스트_공부.h" />
     <ClInclude Include="쿼드압축_후_개수_세기.h" />
     <ClInclude Include="큰_수_만들기.h" />
     <ClInclude Include="파괴되지_않은_건물.h" />

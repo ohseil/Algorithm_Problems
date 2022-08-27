@@ -2,7 +2,7 @@
 
 int main() {
 	
-	두_큐_합_같게_만들기::service();
+	코딩_테스트_공부::service();
 
 	return 0;
 }
