@@ -2,7 +2,7 @@
 
 int main() {
 	
-	코딩_테스트_공부::service();
+	등산코스_정하기::service();
 
 	return 0;
 }
