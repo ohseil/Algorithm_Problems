@@ -13,495 +13,621 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\problem">
+    <Filter Include="소스 파일\problems">
       <UniqueIdentifier>{1e0c5196-acfa-4657-a5fd-29565b685f7d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="헤더 파일\problem">
+    <Filter Include="소스 파일\problems\2022 KAKAO TECH INTERNSHIP">
+      <UniqueIdentifier>{a352f4be-7d7f-4532-a8fe-450565e90de8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\2022 KAKAO BLIND RECRUITMENT">
+      <UniqueIdentifier>{f2f6264c-d011-4804-891c-862c1c072cd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\2021 Dev-Matching: 웹 백엔드 개발자%28상반기%29">
+      <UniqueIdentifier>{b79827a9-f29c-46a4-833c-5224033c72a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\2021 KAKAO BLIND RECRUITMENT">
+      <UniqueIdentifier>{9bacb941-2500-4021-bd93-3d67f91db6cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\2020 KAKAO BLIND RECRUITMENT">
+      <UniqueIdentifier>{e8b46903-a8c8-48b2-8620-b8c74ce79a62}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\2019 KAKAO BLIND RECRUITMENT">
+      <UniqueIdentifier>{70662a68-ccac-4c2a-864e-87fb9a620b79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\2018 KAKAO BLIND RECRUITMENT">
+      <UniqueIdentifier>{28803b9c-370d-4235-ac85-86d83cf4b2dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\2021 카카오 채용연계형 인턴십">
+      <UniqueIdentifier>{55dde08f-fdc9-4342-b2f9-5d06d8c4732a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\2020 카카오 인턴십">
+      <UniqueIdentifier>{0a04be0f-109d-4953-ace2-8c68eb8afe80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\2019 카카오 개발자 겨울 인턴십">
+      <UniqueIdentifier>{d1714b9a-a2ed-498b-b018-57a2d8d25947}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\2017 카카오코드 예선">
+      <UniqueIdentifier>{75392ca5-b003-4822-8029-023d383242f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\2017 카카오코드 본선">
+      <UniqueIdentifier>{5c7ab329-bd46-43f4-8a16-fffcbf988eb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\월간 코드 챌린지 시즌3">
+      <UniqueIdentifier>{d86fb3b9-7f32-4c44-8d09-a612fb3339aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\월간 코드 챌린지 시즌2">
+      <UniqueIdentifier>{f9ead150-17e0-4a7a-a5fe-fb8248137747}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\월간 코드 챌린지 시즌1">
+      <UniqueIdentifier>{5c178d68-2dcd-4d56-a2de-b6eca2a75bf6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\Summer/Winter Coding%282019%29">
+      <UniqueIdentifier>{257a25e6-1525-4c66-a624-1c00fa41187c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\Summer/Winter Coding%28~2018%29">
+      <UniqueIdentifier>{786951d5-ed93-44d5-9640-190139aa5f22}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\2017 팁스타운">
+      <UniqueIdentifier>{c582ca1a-78ae-4609-8259-56571208e4dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\위클리 챌린지">
+      <UniqueIdentifier>{deac5e57-4917-489a-8870-82f0991d6a14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\연습문제">
+      <UniqueIdentifier>{6a097ce8-f943-461d-87f2-3951f8dc9d68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\problems\코딩테스트 고득점 Kit">
+      <UniqueIdentifier>{184e5c15-c255-4f39-9159-97b7a40deedc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems">
       <UniqueIdentifier>{fd51f78e-ca12-482f-98d9-91ad88c5dca4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\2022 KAKAO TECH INTERNSHIP">
+      <UniqueIdentifier>{3a2a190e-ab6d-4da5-ae8f-a6a6e6465282}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\2022 KAKAO BLIND RECRUITMENT">
+      <UniqueIdentifier>{a5be6ee9-cfe3-402d-b9ba-299f41c2f511}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\2017 카카오코드 예선">
+      <UniqueIdentifier>{96fc2501-6db8-431a-98f4-964ed3c73f8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\2017 카카오코드 본선">
+      <UniqueIdentifier>{a8a99be7-987e-42c3-bd0e-309c60012982}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\2017 팁스타운">
+      <UniqueIdentifier>{f36daf97-273d-4feb-842d-1f442e70d5cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\위클리 챌린지">
+      <UniqueIdentifier>{d1af29ed-dfa1-41f9-9e40-297711c3aff6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\월간 코드 챌린지 시즌1">
+      <UniqueIdentifier>{69c1a087-41b6-44b8-ad7b-6d7c94461427}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\월간 코드 챌린지 시즌2">
+      <UniqueIdentifier>{d3f70664-77ed-4a76-b1ba-d2533b481af4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\월간 코드 챌린지 시즌3">
+      <UniqueIdentifier>{7ba908f2-9d6a-45a9-8503-081f619619d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\연습문제">
+      <UniqueIdentifier>{899c2159-6061-4c91-ba9b-7298b21834e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\코딩테스트 고득점 Kit">
+      <UniqueIdentifier>{d01fbe0c-ec13-4ebf-8a38-278c20b1d282}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\2021 Dev-Matching: 웹 백엔드 개발자%28상반기%29">
+      <UniqueIdentifier>{17c7363c-21d8-4b9c-91cc-966a6277afe6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\2019 KAKAO BLIND RECRUITMENT">
+      <UniqueIdentifier>{6454ae93-fcb3-4439-9fb4-28b31bde9d0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\2018 KAKAO BLIND RECRUITMENT">
+      <UniqueIdentifier>{94bb7ab2-dab9-4f42-bf08-16f9f7e1f87c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\2021 카카오 채용연계형 인턴십">
+      <UniqueIdentifier>{31d91825-a39c-4ea0-bb17-b26cbe66de5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\2020 카카오 인턴십">
+      <UniqueIdentifier>{321f55ae-c84a-41c3-b515-fb44b608ac15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\2019 카카오 개발자 겨울 인턴십">
+      <UniqueIdentifier>{2a6139d6-af6a-4799-8384-0a90bee35b39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\Summer/Winter Coding%28~2018%29">
+      <UniqueIdentifier>{66f7a6c3-64aa-4124-a614-42b6d2d8eb52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\Summer/Winter Coding%282019%29">
+      <UniqueIdentifier>{833ad5e8-3209-4cbe-9a26-69b5739fa94b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\2020 KAKAO BLIND RECRUITMENT">
+      <UniqueIdentifier>{5ac5ba27-d0d8-46c6-8e02-e59a5f509ece}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\problems\2021 KAKAO BLIND RECRUITMENT">
+      <UniqueIdentifier>{c048e981-3b96-46c8-a60f-7d4367dd9690}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="입국심사.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="가장_먼_노드.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="브라이언의_고민.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="리틀_프렌즈_사천성.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="전화번호_목록.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="프린터.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="디스크_컨트롤러.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="가장_큰_수.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="소수_찾기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="조이스틱.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="정수_삼각형.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="네트워크.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="게임_맵_최단거리.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="예상_대진표.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="순위.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="GPS.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="금과_은_운반하기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="괄호_회전하기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="2xn_타일링.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="위장.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="다리를_지나는_트럭.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="이중우선순위큐.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="H-Index.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="카펫.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="큰_수_만들기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="등굣길.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="단어_변환.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="피로도.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="몸짱_트레이너_라이언의_고민.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="2개_이하로_다른_비트.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="베스트앨범.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="주식가격.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="구명보트.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="아이템_줍기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="교점에_별_만들기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="전력망을_둘로_나누기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="모음사전.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="캠핑.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="모두_0으로_만들기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="이진_변환_반복하기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="3xn_타일링.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="섬_연결하기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="n^2_배열_자르기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="쿼드압축_후_개수_세기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="110_옮기기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="단속카메라.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="공_이동_시뮬레이션.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="가장_긴_팰린드롬.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="스타_수열.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="가장_큰_정사각형_찾기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="올바른_괄호.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="거스름돈.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="다음_큰_숫자.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="땅따먹기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="멀리_뛰기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="k진수에서_소수_개수_구하기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="선입_선출_스케줄링.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="숫자_블록.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="숫자의_표현.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="야근_지수.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="줄_서는_방법.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="주차_요금_계산.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="최고의_집합.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="최댓값과_최솟값.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="최솟값_만들기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="최적의_행렬_곱셈.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="피보나치_수.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="하노이의_탑.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="행렬의_곱셈.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="JadenCase_문자열_만들기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="N-Queen.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="N개의_최소공배수.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="양궁대회.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="파괴되지_않은_건물.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="양과_늑대.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="사라지는_발판.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
     <ClCompile Include="두_큐_합_같게_만들기.cpp">
-      <Filter>소스 파일\problem</Filter>
-    </ClCompile>
-    <ClCompile Include="코딩_테스트_공부.cpp">
-      <Filter>소스 파일\problem</Filter>
+      <Filter>소스 파일\problems\2022 KAKAO TECH INTERNSHIP</Filter>
     </ClCompile>
     <ClCompile Include="등산코스_정하기.cpp">
-      <Filter>소스 파일\problem</Filter>
+      <Filter>소스 파일\problems\2022 KAKAO TECH INTERNSHIP</Filter>
+    </ClCompile>
+    <ClCompile Include="코딩_테스트_공부.cpp">
+      <Filter>소스 파일\problems\2022 KAKAO TECH INTERNSHIP</Filter>
+    </ClCompile>
+    <ClCompile Include="k진수에서_소수_개수_구하기.cpp">
+      <Filter>소스 파일\problems\2022 KAKAO BLIND RECRUITMENT</Filter>
+    </ClCompile>
+    <ClCompile Include="주차_요금_계산.cpp">
+      <Filter>소스 파일\problems\2022 KAKAO BLIND RECRUITMENT</Filter>
+    </ClCompile>
+    <ClCompile Include="양궁대회.cpp">
+      <Filter>소스 파일\problems\2022 KAKAO BLIND RECRUITMENT</Filter>
+    </ClCompile>
+    <ClCompile Include="양과_늑대.cpp">
+      <Filter>소스 파일\problems\2022 KAKAO BLIND RECRUITMENT</Filter>
+    </ClCompile>
+    <ClCompile Include="파괴되지_않은_건물.cpp">
+      <Filter>소스 파일\problems\2022 KAKAO BLIND RECRUITMENT</Filter>
+    </ClCompile>
+    <ClCompile Include="사라지는_발판.cpp">
+      <Filter>소스 파일\problems\2022 KAKAO BLIND RECRUITMENT</Filter>
+    </ClCompile>
+    <ClCompile Include="브라이언의_고민.cpp">
+      <Filter>소스 파일\problems\2017 카카오코드 예선</Filter>
+    </ClCompile>
+    <ClCompile Include="캠핑.cpp">
+      <Filter>소스 파일\problems\2017 카카오코드 예선</Filter>
+    </ClCompile>
+    <ClCompile Include="리틀_프렌즈_사천성.cpp">
+      <Filter>소스 파일\problems\2017 카카오코드 본선</Filter>
+    </ClCompile>
+    <ClCompile Include="GPS.cpp">
+      <Filter>소스 파일\problems\2017 카카오코드 본선</Filter>
+    </ClCompile>
+    <ClCompile Include="몸짱_트레이너_라이언의_고민.cpp">
+      <Filter>소스 파일\problems\2017 카카오코드 본선</Filter>
+    </ClCompile>
+    <ClCompile Include="금과_은_운반하기.cpp">
+      <Filter>소스 파일\problems\월간 코드 챌린지 시즌3</Filter>
+    </ClCompile>
+    <ClCompile Include="n^2_배열_자르기.cpp">
+      <Filter>소스 파일\problems\월간 코드 챌린지 시즌3</Filter>
+    </ClCompile>
+    <ClCompile Include="공_이동_시뮬레이션.cpp">
+      <Filter>소스 파일\problems\월간 코드 챌린지 시즌3</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호_회전하기.cpp">
+      <Filter>소스 파일\problems\월간 코드 챌린지 시즌2</Filter>
+    </ClCompile>
+    <ClCompile Include="2개_이하로_다른_비트.cpp">
+      <Filter>소스 파일\problems\월간 코드 챌린지 시즌2</Filter>
+    </ClCompile>
+    <ClCompile Include="모두_0으로_만들기.cpp">
+      <Filter>소스 파일\problems\월간 코드 챌린지 시즌2</Filter>
+    </ClCompile>
+    <ClCompile Include="110_옮기기.cpp">
+      <Filter>소스 파일\problems\월간 코드 챌린지 시즌2</Filter>
+    </ClCompile>
+    <ClCompile Include="이진_변환_반복하기.cpp">
+      <Filter>소스 파일\problems\월간 코드 챌린지 시즌1</Filter>
+    </ClCompile>
+    <ClCompile Include="쿼드압축_후_개수_세기.cpp">
+      <Filter>소스 파일\problems\월간 코드 챌린지 시즌1</Filter>
+    </ClCompile>
+    <ClCompile Include="스타_수열.cpp">
+      <Filter>소스 파일\problems\월간 코드 챌린지 시즌1</Filter>
+    </ClCompile>
+    <ClCompile Include="예상_대진표.cpp">
+      <Filter>소스 파일\problems\2017 팁스타운</Filter>
+    </ClCompile>
+    <ClCompile Include="교점에_별_만들기.cpp">
+      <Filter>소스 파일\problems\위클리 챌린지</Filter>
+    </ClCompile>
+    <ClCompile Include="올바른_괄호.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="입국심사.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="가장_먼_노드.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="전화번호_목록.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="프린터.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="디스크_컨트롤러.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="가장_큰_수.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="소수_찾기.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="조이스틱.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="정수_삼각형.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="게임_맵_최단거리.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="네트워크.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="순위.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="2xn_타일링.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="위장.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="다리를_지나는_트럭.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="이중우선순위큐.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="H-Index.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="카펫.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="큰_수_만들기.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="단어_변환.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="등굣길.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="피로도.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="전력망을_둘로_나누기.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="모음사전.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="아이템_줍기.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="구명보트.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="주식가격.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="베스트앨범.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="가장_긴_팰린드롬.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="단속카메라.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="섬_연결하기.cpp">
+      <Filter>소스 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClCompile>
+    <ClCompile Include="3xn_타일링.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="최댓값과_최솟값.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="최고의_집합.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="줄_서는_방법.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="야근_지수.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자의_표현.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자_블록.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="선입_선출_스케줄링.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="멀리_뛰기.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="땅따먹기.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="다음_큰_숫자.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="거스름돈.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="최솟값_만들기.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="최적의_행렬_곱셈.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치_수.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="하노이의_탑.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="행렬의_곱셈.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="JadenCase_문자열_만들기.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="N-Queen.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="N개의_최소공배수.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="가장_큰_정사각형_찾기.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="입국심사.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="가장_먼_노드.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="브라이언의_고민.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="리틀_프렌즈_사천성.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="전화번호_목록.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="프린터.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="디스크_컨트롤러.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="가장_큰_수.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="소수_찾기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="조이스틱.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="정수_삼각형.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="네트워크.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="게임_맵_최단거리.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="예상_대진표.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="순위.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="GPS.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="금과_은_운반하기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="괄호_회전하기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="2xn_타일링.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="위장.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="다리를_지나는_트럭.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="이중우선순위큐.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="H-Index.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="카펫.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="큰_수_만들기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="등굣길.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="단어_변환.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="피로도.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="몸짱_트레이너_라이언의_고민.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="2개_이하로_다른_비트.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="베스트앨범.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="주식가격.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="구명보트.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="아이템_줍기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="교점에_별_만들기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="전력망을_둘로_나누기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="모음사전.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="캠핑.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="모두_0으로_만들기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="이진_변환_반복하기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="3xn_타일링.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="섬_연결하기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="n^2_배열_자르기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="쿼드압축_후_개수_세기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="110_옮기기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="단속카메라.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="공_이동_시뮬레이션.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="가장_긴_팰린드롬.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="스타_수열.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="가장_큰_정사각형_찾기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="올바른_괄호.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="거스름돈.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="다음_큰_숫자.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="땅따먹기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="멀리_뛰기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="k진수에서_소수_개수_구하기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="선입_선출_스케줄링.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="숫자_블록.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="숫자의_표현.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="야근_지수.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="줄_서는_방법.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="주차_요금_계산.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="최고의_집합.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="최댓값과_최솟값.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="최솟값_만들기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="최적의_행렬_곱셈.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="피보나치_수.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="하노이의_탑.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="행렬의_곱셈.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="JadenCase_문자열_만들기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="N-Queen.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="N개의_최소공배수.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="양궁대회.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="파괴되지_않은_건물.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="양과_늑대.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="사라지는_발판.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
     <ClInclude Include="두_큐_합_같게_만들기.h">
-      <Filter>헤더 파일\problem</Filter>
-    </ClInclude>
-    <ClInclude Include="코딩_테스트_공부.h">
-      <Filter>헤더 파일\problem</Filter>
+      <Filter>헤더 파일\problems\2022 KAKAO TECH INTERNSHIP</Filter>
     </ClInclude>
     <ClInclude Include="등산코스_정하기.h">
-      <Filter>헤더 파일\problem</Filter>
+      <Filter>헤더 파일\problems\2022 KAKAO TECH INTERNSHIP</Filter>
+    </ClInclude>
+    <ClInclude Include="코딩_테스트_공부.h">
+      <Filter>헤더 파일\problems\2022 KAKAO TECH INTERNSHIP</Filter>
+    </ClInclude>
+    <ClInclude Include="k진수에서_소수_개수_구하기.h">
+      <Filter>헤더 파일\problems\2022 KAKAO BLIND RECRUITMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="양과_늑대.h">
+      <Filter>헤더 파일\problems\2022 KAKAO BLIND RECRUITMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="양궁대회.h">
+      <Filter>헤더 파일\problems\2022 KAKAO BLIND RECRUITMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="사라지는_발판.h">
+      <Filter>헤더 파일\problems\2022 KAKAO BLIND RECRUITMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="주차_요금_계산.h">
+      <Filter>헤더 파일\problems\2022 KAKAO BLIND RECRUITMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="파괴되지_않은_건물.h">
+      <Filter>헤더 파일\problems\2022 KAKAO BLIND RECRUITMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="캠핑.h">
+      <Filter>헤더 파일\problems\2017 카카오코드 예선</Filter>
+    </ClInclude>
+    <ClInclude Include="브라이언의_고민.h">
+      <Filter>헤더 파일\problems\2017 카카오코드 예선</Filter>
+    </ClInclude>
+    <ClInclude Include="GPS.h">
+      <Filter>헤더 파일\problems\2017 카카오코드 본선</Filter>
+    </ClInclude>
+    <ClInclude Include="리틀_프렌즈_사천성.h">
+      <Filter>헤더 파일\problems\2017 카카오코드 본선</Filter>
+    </ClInclude>
+    <ClInclude Include="몸짱_트레이너_라이언의_고민.h">
+      <Filter>헤더 파일\problems\2017 카카오코드 본선</Filter>
+    </ClInclude>
+    <ClInclude Include="예상_대진표.h">
+      <Filter>헤더 파일\problems\2017 팁스타운</Filter>
+    </ClInclude>
+    <ClInclude Include="교점에_별_만들기.h">
+      <Filter>헤더 파일\problems\위클리 챌린지</Filter>
+    </ClInclude>
+    <ClInclude Include="스타_수열.h">
+      <Filter>헤더 파일\problems\월간 코드 챌린지 시즌1</Filter>
+    </ClInclude>
+    <ClInclude Include="이진_변환_반복하기.h">
+      <Filter>헤더 파일\problems\월간 코드 챌린지 시즌1</Filter>
+    </ClInclude>
+    <ClInclude Include="쿼드압축_후_개수_세기.h">
+      <Filter>헤더 파일\problems\월간 코드 챌린지 시즌1</Filter>
+    </ClInclude>
+    <ClInclude Include="2개_이하로_다른_비트.h">
+      <Filter>헤더 파일\problems\월간 코드 챌린지 시즌2</Filter>
+    </ClInclude>
+    <ClInclude Include="110_옮기기.h">
+      <Filter>헤더 파일\problems\월간 코드 챌린지 시즌2</Filter>
+    </ClInclude>
+    <ClInclude Include="괄호_회전하기.h">
+      <Filter>헤더 파일\problems\월간 코드 챌린지 시즌2</Filter>
+    </ClInclude>
+    <ClInclude Include="모두_0으로_만들기.h">
+      <Filter>헤더 파일\problems\월간 코드 챌린지 시즌2</Filter>
+    </ClInclude>
+    <ClInclude Include="공_이동_시뮬레이션.h">
+      <Filter>헤더 파일\problems\월간 코드 챌린지 시즌3</Filter>
+    </ClInclude>
+    <ClInclude Include="n^2_배열_자르기.h">
+      <Filter>헤더 파일\problems\월간 코드 챌린지 시즌3</Filter>
+    </ClInclude>
+    <ClInclude Include="금과_은_운반하기.h">
+      <Filter>헤더 파일\problems\월간 코드 챌린지 시즌3</Filter>
+    </ClInclude>
+    <ClInclude Include="2xn_타일링.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="3xn_타일링.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="JadenCase_문자열_만들기.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="N-Queen.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="N개의_최소공배수.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="가장_긴_팰린드롬.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="가장_큰_정사각형_찾기.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="거스름돈.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="다음_큰_숫자.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="땅따먹기.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="멀리_뛰기.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="선입_선출_스케줄링.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="숫자_블록.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="숫자의_표현.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="야근_지수.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="줄_서는_방법.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="최고의_집합.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="최댓값과_최솟값.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="최솟값_만들기.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="최적의_행렬_곱셈.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="피보나치_수.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="하노이의_탑.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="행렬의_곱셈.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="피로도.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="H-Index.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="가장_먼_노드.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="가장_큰_수.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="게임_맵_최단거리.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="구명보트.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="네트워크.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="다리를_지나는_트럭.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="단속카메라.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="단어_변환.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="등굣길.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="디스크_컨트롤러.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="모음사전.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="베스트앨범.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="섬_연결하기.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="소수_찾기.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="순위.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="아이템_줍기.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="올바른_괄호.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="위장.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="이중우선순위큐.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="입국심사.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="전력망을_둘로_나누기.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="전화번호_목록.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="정수_삼각형.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="조이스틱.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="주식가격.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="카펫.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="큰_수_만들기.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
+    </ClInclude>
+    <ClInclude Include="프린터.h">
+      <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
