@@ -2,7 +2,7 @@
 
 int main() {
 	
-	등산코스_정하기::service();
+	행렬_테두리_회전하기::service();
 
 	return 0;
 }
