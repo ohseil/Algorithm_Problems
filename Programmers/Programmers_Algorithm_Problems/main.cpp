@@ -2,7 +2,7 @@
 
 int main() {
 	
-	행렬_테두리_회전하기::service();
+	다단계_칫솔_판매::service();
 
 	return 0;
 }
