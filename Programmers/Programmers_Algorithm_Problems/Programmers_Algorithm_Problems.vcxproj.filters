@@ -390,6 +390,9 @@
     <ClCompile Include="행렬_테두리_회전하기.cpp">
       <Filter>소스 파일\problems\2021 Dev-Matching: 웹 백엔드 개발자%28상반기%29</Filter>
     </ClCompile>
+    <ClCompile Include="다단계_칫솔_판매.cpp">
+      <Filter>소스 파일\problems\2021 Dev-Matching: 웹 백엔드 개발자%28상반기%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -633,6 +636,9 @@
       <Filter>헤더 파일\problems\코딩테스트 고득점 Kit</Filter>
     </ClInclude>
     <ClInclude Include="행렬_테두리_회전하기.h">
+      <Filter>헤더 파일\problems\2021 Dev-Matching: 웹 백엔드 개발자%28상반기%29</Filter>
+    </ClInclude>
+    <ClInclude Include="다단계_칫솔_판매.h">
       <Filter>헤더 파일\problems\2021 Dev-Matching: 웹 백엔드 개발자%28상반기%29</Filter>
     </ClInclude>
   </ItemGroup>
