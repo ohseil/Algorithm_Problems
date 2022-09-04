@@ -2,7 +2,7 @@
 
 int main() {
 	
-	다단계_칫솔_판매::service();
+	메뉴_리뉴얼::service();
 
 	return 0;
 }

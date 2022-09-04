@@ -165,6 +165,7 @@
     <ClCompile Include="땅따먹기.cpp" />
     <ClCompile Include="리틀_프렌즈_사천성.cpp" />
     <ClCompile Include="멀리_뛰기.cpp" />
+    <ClCompile Include="메뉴_리뉴얼.cpp" />
     <ClCompile Include="모두_0으로_만들기.cpp" />
     <ClCompile Include="모음사전.cpp" />
     <ClCompile Include="몸짱_트레이너_라이언의_고민.cpp" />
@@ -249,6 +250,7 @@
     <ClInclude Include="땅따먹기.h" />
     <ClInclude Include="리틀_프렌즈_사천성.h" />
     <ClInclude Include="멀리_뛰기.h" />
+    <ClInclude Include="메뉴_리뉴얼.h" />
     <ClInclude Include="모두_0으로_만들기.h" />
     <ClInclude Include="모음사전.h" />
     <ClInclude Include="몸짱_트레이너_라이언의_고민.h" />
