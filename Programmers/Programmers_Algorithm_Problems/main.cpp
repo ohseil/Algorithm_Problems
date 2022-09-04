@@ -2,7 +2,7 @@
 
 int main() {
 	
-	메뉴_리뉴얼::service();
+	순위_검색::service();
 
 	return 0;
 }

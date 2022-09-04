@@ -396,6 +396,9 @@
     <ClCompile Include="메뉴_리뉴얼.cpp">
       <Filter>소스 파일\problems\2021 KAKAO BLIND RECRUITMENT</Filter>
     </ClCompile>
+    <ClCompile Include="순위_검색.cpp">
+      <Filter>소스 파일\problems\2021 KAKAO BLIND RECRUITMENT</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -645,6 +648,9 @@
       <Filter>헤더 파일\problems\2021 Dev-Matching: 웹 백엔드 개발자%28상반기%29</Filter>
     </ClInclude>
     <ClInclude Include="메뉴_리뉴얼.h">
+      <Filter>헤더 파일\problems\2021 KAKAO BLIND RECRUITMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="순위_검색.h">
       <Filter>헤더 파일\problems\2021 KAKAO BLIND RECRUITMENT</Filter>
     </ClInclude>
   </ItemGroup>
