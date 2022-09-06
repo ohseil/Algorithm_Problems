@@ -211,6 +211,7 @@
     <ClCompile Include="피로도.cpp" />
     <ClCompile Include="피보나치_수.cpp" />
     <ClCompile Include="하노이의_탑.cpp" />
+    <ClCompile Include="합승_택시_요금.cpp" />
     <ClCompile Include="행렬_테두리_회전하기.cpp" />
     <ClCompile Include="행렬의_곱셈.cpp" />
   </ItemGroup>
@@ -297,6 +298,7 @@
     <ClInclude Include="피로도.h" />
     <ClInclude Include="피보나치_수.h" />
     <ClInclude Include="하노이의_탑.h" />
+    <ClInclude Include="합승_택시_요금.h" />
     <ClInclude Include="행렬_테두리_회전하기.h" />
     <ClInclude Include="행렬의_곱셈.h" />
   </ItemGroup>
