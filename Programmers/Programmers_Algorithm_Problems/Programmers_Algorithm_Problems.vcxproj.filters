@@ -399,6 +399,9 @@
     <ClCompile Include="순위_검색.cpp">
       <Filter>소스 파일\problems\2021 KAKAO BLIND RECRUITMENT</Filter>
     </ClCompile>
+    <ClCompile Include="합승_택시_요금.cpp">
+      <Filter>소스 파일\problems\2021 KAKAO BLIND RECRUITMENT</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -651,6 +654,9 @@
       <Filter>헤더 파일\problems\2021 KAKAO BLIND RECRUITMENT</Filter>
     </ClInclude>
     <ClInclude Include="순위_검색.h">
+      <Filter>헤더 파일\problems\2021 KAKAO BLIND RECRUITMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="합승_택시_요금.h">
       <Filter>헤더 파일\problems\2021 KAKAO BLIND RECRUITMENT</Filter>
     </ClInclude>
   </ItemGroup>

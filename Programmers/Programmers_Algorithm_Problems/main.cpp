@@ -2,7 +2,7 @@
 
 int main() {
 	
-	순위_검색::service();
+	합승_택시_요금::service();
 
 	return 0;
 }
