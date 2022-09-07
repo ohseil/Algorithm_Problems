@@ -2,7 +2,7 @@
 
 int main() {
 	
-	гу╫б_ец╫ц_©Д╠щ::service();
+	╠╓╟М_╩Пют::service();
 
 	return 0;
 }
