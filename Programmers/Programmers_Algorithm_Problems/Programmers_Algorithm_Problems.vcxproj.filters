@@ -408,6 +408,9 @@
     <ClCompile Include="카드_짝_맞추기.cpp">
       <Filter>소스 파일\problems\2021 KAKAO BLIND RECRUITMENT</Filter>
     </ClCompile>
+    <ClCompile Include="괄호_변환.cpp">
+      <Filter>소스 파일\problems\2020 KAKAO BLIND RECRUITMENT</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -670,6 +673,9 @@
     </ClInclude>
     <ClInclude Include="카드_짝_맞추기.h">
       <Filter>헤더 파일\problems\2021 KAKAO BLIND RECRUITMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="괄호_변환.h">
+      <Filter>헤더 파일\problems\2020 KAKAO BLIND RECRUITMENT</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
