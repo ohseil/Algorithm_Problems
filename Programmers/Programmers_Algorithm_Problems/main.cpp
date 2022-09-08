@@ -2,7 +2,7 @@
 
 int main() {
 	
-	카드_짝_맞추기::service();
+	괄호_변환::service();
 
 	return 0;
 }
