@@ -2,7 +2,7 @@
 
 int main() {
 	
-	괄호_변환::service();
+	문자열_압축::service();
 
 	return 0;
 }
