@@ -2,7 +2,7 @@
 
 int main() {
 	
-	문자열_압축::service();
+	자물쇠와_열쇠::service();
 
 	return 0;
 }
