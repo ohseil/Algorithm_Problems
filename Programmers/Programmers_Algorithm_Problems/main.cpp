@@ -2,7 +2,7 @@
 
 int main() {
 	
-	기둥과_보_설치::service();
+	외벽_점검::service();
 
 	return 0;
 }
