@@ -190,6 +190,7 @@
     <ClCompile Include="양궁대회.cpp" />
     <ClCompile Include="예상_대진표.cpp" />
     <ClCompile Include="올바른_괄호.cpp" />
+    <ClCompile Include="외벽_점검.cpp" />
     <ClCompile Include="위장.cpp" />
     <ClCompile Include="이중우선순위큐.cpp" />
     <ClCompile Include="이진_변환_반복하기.cpp" />
@@ -283,6 +284,7 @@
     <ClInclude Include="양궁대회.h" />
     <ClInclude Include="예상_대진표.h" />
     <ClInclude Include="올바른_괄호.h" />
+    <ClInclude Include="외벽_점검.h" />
     <ClInclude Include="위장.h" />
     <ClInclude Include="이중우선순위큐.h" />
     <ClInclude Include="이진_변환_반복하기.h" />
