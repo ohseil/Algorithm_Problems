@@ -2,7 +2,7 @@
 
 int main() {
 	
-	외벽_점검::service();
+	블록_이동하기::service();
 
 	return 0;
 }

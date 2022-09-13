@@ -90,3 +90,4 @@
 #include "자물쇠와_열쇠.h"
 #include "기둥과_보_설치.h"
 #include "외벽_점검.h"
+#include "블록_이동하기.h"
