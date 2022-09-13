@@ -175,6 +175,7 @@
     <ClCompile Include="문자열_압축.cpp" />
     <ClCompile Include="베스트앨범.cpp" />
     <ClCompile Include="브라이언의_고민.cpp" />
+    <ClCompile Include="블록_이동하기.cpp" />
     <ClCompile Include="사라지는_발판.cpp" />
     <ClCompile Include="선입_선출_스케줄링.cpp" />
     <ClCompile Include="섬_연결하기.cpp" />
@@ -269,6 +270,7 @@
     <ClInclude Include="문자열_압축.h" />
     <ClInclude Include="베스트앨범.h" />
     <ClInclude Include="브라이언의_고민.h" />
+    <ClInclude Include="블록_이동하기.h" />
     <ClInclude Include="사라지는_발판.h" />
     <ClInclude Include="선입_선출_스케줄링.h" />
     <ClInclude Include="섬_연결하기.h" />
