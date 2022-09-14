@@ -2,7 +2,7 @@
 
 int main() {
 	
-	블록_이동하기::service();
+	오픈채팅방::service();
 
 	return 0;
 }
