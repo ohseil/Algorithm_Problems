@@ -426,6 +426,9 @@
     <ClCompile Include="블록_이동하기.cpp">
       <Filter>소스 파일\problems\2020 KAKAO BLIND RECRUITMENT</Filter>
     </ClCompile>
+    <ClCompile Include="오픈채팅방.cpp">
+      <Filter>소스 파일\problems\2019 KAKAO BLIND RECRUITMENT</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -706,6 +709,9 @@
     </ClInclude>
     <ClInclude Include="블록_이동하기.h">
       <Filter>헤더 파일\problems\2020 KAKAO BLIND RECRUITMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="오픈채팅방.h">
+      <Filter>헤더 파일\problems\2019 KAKAO BLIND RECRUITMENT</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
