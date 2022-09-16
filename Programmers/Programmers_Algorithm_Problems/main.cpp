@@ -2,7 +2,7 @@
 
 int main() {
 	
-	오픈채팅방::service();
+	후보키::service();
 
 	return 0;
 }
