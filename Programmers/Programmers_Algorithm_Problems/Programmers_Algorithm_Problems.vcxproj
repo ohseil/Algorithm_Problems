@@ -223,6 +223,7 @@
     <ClCompile Include="합승_택시_요금.cpp" />
     <ClCompile Include="행렬_테두리_회전하기.cpp" />
     <ClCompile Include="행렬의_곱셈.cpp" />
+    <ClCompile Include="후보키.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="110_옮기기.h" />
@@ -319,6 +320,7 @@
     <ClInclude Include="합승_택시_요금.h" />
     <ClInclude Include="행렬_테두리_회전하기.h" />
     <ClInclude Include="행렬의_곱셈.h" />
+    <ClInclude Include="후보키.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
