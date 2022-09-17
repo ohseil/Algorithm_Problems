@@ -2,7 +2,7 @@
 
 int main() {
 	
-	후보키::service();
+	길_찾기_게임::service();
 
 	return 0;
 }

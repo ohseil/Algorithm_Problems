@@ -155,6 +155,7 @@
     <ClCompile Include="구명보트.cpp" />
     <ClCompile Include="금과_은_운반하기.cpp" />
     <ClCompile Include="기둥과_보_설치.cpp" />
+    <ClCompile Include="길_찾기_게임.cpp" />
     <ClCompile Include="네트워크.cpp" />
     <ClCompile Include="다단계_칫솔_판매.cpp" />
     <ClCompile Include="다리를_지나는_트럭.cpp" />
@@ -252,6 +253,7 @@
     <ClInclude Include="구명보트.h" />
     <ClInclude Include="금과_은_운반하기.h" />
     <ClInclude Include="기둥과_보_설치.h" />
+    <ClInclude Include="길_찾기_게임.h" />
     <ClInclude Include="네트워크.h" />
     <ClInclude Include="다단계_칫솔_판매.h" />
     <ClInclude Include="다리를_지나는_트럭.h" />
