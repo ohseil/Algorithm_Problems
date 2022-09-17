@@ -432,6 +432,9 @@
     <ClCompile Include="후보키.cpp">
       <Filter>소스 파일\problems\2019 KAKAO BLIND RECRUITMENT</Filter>
     </ClCompile>
+    <ClCompile Include="길_찾기_게임.cpp">
+      <Filter>소스 파일\problems\2019 KAKAO BLIND RECRUITMENT</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -717,6 +720,9 @@
       <Filter>헤더 파일\problems\2019 KAKAO BLIND RECRUITMENT</Filter>
     </ClInclude>
     <ClInclude Include="후보키.h">
+      <Filter>헤더 파일\problems\2019 KAKAO BLIND RECRUITMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="길_찾기_게임.h">
       <Filter>헤더 파일\problems\2019 KAKAO BLIND RECRUITMENT</Filter>
     </ClInclude>
   </ItemGroup>
