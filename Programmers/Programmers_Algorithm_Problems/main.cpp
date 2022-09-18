@@ -2,7 +2,7 @@
 
 int main() {
 	
-	길_찾기_게임::service();
+	매칭_점수::service();
 
 	return 0;
 }

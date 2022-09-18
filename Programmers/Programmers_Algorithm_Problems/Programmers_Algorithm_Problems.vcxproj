@@ -168,6 +168,7 @@
     <ClCompile Include="디스크_컨트롤러.cpp" />
     <ClCompile Include="땅따먹기.cpp" />
     <ClCompile Include="리틀_프렌즈_사천성.cpp" />
+    <ClCompile Include="매칭_점수.cpp" />
     <ClCompile Include="멀리_뛰기.cpp" />
     <ClCompile Include="메뉴_리뉴얼.cpp" />
     <ClCompile Include="모두_0으로_만들기.cpp" />
@@ -266,6 +267,7 @@
     <ClInclude Include="디스크_컨트롤러.h" />
     <ClInclude Include="땅따먹기.h" />
     <ClInclude Include="리틀_프렌즈_사천성.h" />
+    <ClInclude Include="매칭_점수.h" />
     <ClInclude Include="멀리_뛰기.h" />
     <ClInclude Include="메뉴_리뉴얼.h" />
     <ClInclude Include="모두_0으로_만들기.h" />
