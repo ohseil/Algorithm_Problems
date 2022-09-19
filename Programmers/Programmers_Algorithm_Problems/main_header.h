@@ -95,3 +95,4 @@
 #include "후보키.h"
 #include "길_찾기_게임.h"
 #include "매칭_점수.h"
+#include "캐시.h"
