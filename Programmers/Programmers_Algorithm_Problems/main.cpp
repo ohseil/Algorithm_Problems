@@ -2,7 +2,7 @@
 
 int main() {
 	
-	매칭_점수::service();
+	캐시::service();
 
 	return 0;
 }
