@@ -2,7 +2,7 @@
 
 int main() {
 	
-	캐시::service();
+	뉴스_클러스터링::service();
 
 	return 0;
 }

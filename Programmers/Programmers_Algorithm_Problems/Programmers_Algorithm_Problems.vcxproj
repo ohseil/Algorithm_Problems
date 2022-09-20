@@ -157,6 +157,7 @@
     <ClCompile Include="기둥과_보_설치.cpp" />
     <ClCompile Include="길_찾기_게임.cpp" />
     <ClCompile Include="네트워크.cpp" />
+    <ClCompile Include="뉴스_클러스터링.cpp" />
     <ClCompile Include="다단계_칫솔_판매.cpp" />
     <ClCompile Include="다리를_지나는_트럭.cpp" />
     <ClCompile Include="다음_큰_숫자.cpp" />
@@ -257,6 +258,7 @@
     <ClInclude Include="기둥과_보_설치.h" />
     <ClInclude Include="길_찾기_게임.h" />
     <ClInclude Include="네트워크.h" />
+    <ClInclude Include="뉴스_클러스터링.h" />
     <ClInclude Include="다단계_칫솔_판매.h" />
     <ClInclude Include="다리를_지나는_트럭.h" />
     <ClInclude Include="다음_큰_숫자.h" />
