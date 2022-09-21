@@ -444,6 +444,9 @@
     <ClCompile Include="뉴스_클러스터링.cpp">
       <Filter>소스 파일\problems\2018 KAKAO BLIND RECRUITMENT</Filter>
     </ClCompile>
+    <ClCompile Include="압축.cpp">
+      <Filter>소스 파일\problems\2018 KAKAO BLIND RECRUITMENT</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -741,6 +744,9 @@
       <Filter>헤더 파일\problems\2018 KAKAO BLIND RECRUITMENT</Filter>
     </ClInclude>
     <ClInclude Include="뉴스_클러스터링.h">
+      <Filter>헤더 파일\problems\2018 KAKAO BLIND RECRUITMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="압축.h">
       <Filter>헤더 파일\problems\2018 KAKAO BLIND RECRUITMENT</Filter>
     </ClInclude>
   </ItemGroup>
