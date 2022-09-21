@@ -2,7 +2,7 @@
 
 int main() {
 	
-	뉴스_클러스터링::service();
+	압축::service();
 
 	return 0;
 }
