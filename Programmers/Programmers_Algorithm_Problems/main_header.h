@@ -98,3 +98,4 @@
 #include "캐시.h"
 #include "뉴스_클러스터링.h"
 #include "압축.h"
+#include "프렌즈4블록.h"
