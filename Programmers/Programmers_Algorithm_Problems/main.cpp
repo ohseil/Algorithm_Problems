@@ -2,7 +2,7 @@
 
 int main() {
 	
-	압축::service();
+	프렌즈4블록::service();
 
 	return 0;
 }

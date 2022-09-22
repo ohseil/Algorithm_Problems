@@ -221,6 +221,7 @@
     <ClCompile Include="쿼드압축_후_개수_세기.cpp" />
     <ClCompile Include="큰_수_만들기.cpp" />
     <ClCompile Include="파괴되지_않은_건물.cpp" />
+    <ClCompile Include="프렌즈4블록.cpp" />
     <ClCompile Include="프린터.cpp" />
     <ClCompile Include="피로도.cpp" />
     <ClCompile Include="피보나치_수.cpp" />
@@ -323,6 +324,7 @@
     <ClInclude Include="쿼드압축_후_개수_세기.h" />
     <ClInclude Include="큰_수_만들기.h" />
     <ClInclude Include="파괴되지_않은_건물.h" />
+    <ClInclude Include="프렌즈4블록.h" />
     <ClInclude Include="프린터.h" />
     <ClInclude Include="피로도.h" />
     <ClInclude Include="피보나치_수.h" />
