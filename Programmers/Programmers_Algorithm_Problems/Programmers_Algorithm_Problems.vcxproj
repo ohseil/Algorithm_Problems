@@ -141,6 +141,7 @@
     <ClCompile Include="N-Queen.cpp" />
     <ClCompile Include="n^2_배열_자르기.cpp" />
     <ClCompile Include="N개의_최소공배수.cpp" />
+    <ClCompile Include="n진수_게임.cpp" />
     <ClCompile Include="가장_긴_팰린드롬.cpp" />
     <ClCompile Include="가장_먼_노드.cpp" />
     <ClCompile Include="가장_큰_수.cpp" />
@@ -244,6 +245,7 @@
     <ClInclude Include="N-Queen.h" />
     <ClInclude Include="n^2_배열_자르기.h" />
     <ClInclude Include="N개의_최소공배수.h" />
+    <ClInclude Include="n진수_게임.h" />
     <ClInclude Include="가장_긴_팰린드롬.h" />
     <ClInclude Include="가장_먼_노드.h" />
     <ClInclude Include="가장_큰_수.h" />
