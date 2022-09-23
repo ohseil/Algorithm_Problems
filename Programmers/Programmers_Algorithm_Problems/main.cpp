@@ -2,7 +2,7 @@
 
 int main() {
 	
-	프렌즈4블록::service();
+	n진수_게임::service();
 
 	return 0;
 }
