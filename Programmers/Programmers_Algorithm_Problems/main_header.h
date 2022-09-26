@@ -100,3 +100,5 @@
 #include "압축.h"
 #include "프렌즈4블록.h"
 #include "n진수_게임.h"
+#include "파일명_정렬.h"
+#include "방금그곡.h"
