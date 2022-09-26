@@ -177,6 +177,7 @@
     <ClCompile Include="모음사전.cpp" />
     <ClCompile Include="몸짱_트레이너_라이언의_고민.cpp" />
     <ClCompile Include="문자열_압축.cpp" />
+    <ClCompile Include="방금그곡.cpp" />
     <ClCompile Include="베스트앨범.cpp" />
     <ClCompile Include="브라이언의_고민.cpp" />
     <ClCompile Include="블록_이동하기.cpp" />
@@ -222,6 +223,7 @@
     <ClCompile Include="쿼드압축_후_개수_세기.cpp" />
     <ClCompile Include="큰_수_만들기.cpp" />
     <ClCompile Include="파괴되지_않은_건물.cpp" />
+    <ClCompile Include="파일명_정렬.cpp" />
     <ClCompile Include="프렌즈4블록.cpp" />
     <ClCompile Include="프린터.cpp" />
     <ClCompile Include="피로도.cpp" />
@@ -281,6 +283,7 @@
     <ClInclude Include="모음사전.h" />
     <ClInclude Include="몸짱_트레이너_라이언의_고민.h" />
     <ClInclude Include="문자열_압축.h" />
+    <ClInclude Include="방금그곡.h" />
     <ClInclude Include="베스트앨범.h" />
     <ClInclude Include="브라이언의_고민.h" />
     <ClInclude Include="블록_이동하기.h" />
@@ -326,6 +329,7 @@
     <ClInclude Include="쿼드압축_후_개수_세기.h" />
     <ClInclude Include="큰_수_만들기.h" />
     <ClInclude Include="파괴되지_않은_건물.h" />
+    <ClInclude Include="파일명_정렬.h" />
     <ClInclude Include="프렌즈4블록.h" />
     <ClInclude Include="프린터.h" />
     <ClInclude Include="피로도.h" />

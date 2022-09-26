@@ -2,7 +2,7 @@
 
 int main() {
 	
-	n진수_게임::service();
+	방금그곡::service();
 
 	return 0;
 }
