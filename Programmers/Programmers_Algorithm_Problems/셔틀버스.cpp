@@ -55,63 +55,36 @@ string solution(int n, int t, int m, vector<string> timetable) {
 
     setCrewArrivalTimes(crewArrivalTimes, timetable);
 
-    int curBusArrivalTime = timeToMin("09:00");
+    int curBusArrivalTime = timeToMin("09:00") - t;
     int curPassengerCount = 0;
 
-    int crewIdx = 0;
+    int crewIdx = -1;
 
-    for (int i = 0; i < crewArrivalTimes.size(); i++) {
+    for (int i = 0; i < n; i++) {
 
-        int crewArrivalTime = crewArrivalTimes[i];
+        curBusArrivalTime += t;
+        curPassengerCount = 0;
 
-        if (crewArrivalTime <= curBusArrivalTime) {
+        for (int j = crewIdx + 1; j < crewArrivalTimes.size(); j++) {
 
-            curPassengerCount++;
-            crewIdx = i;
+            int crewArrivalTime = crewArrivalTimes[j];
 
-            if (curPassengerCount == m) {
-                
-                n--;
-            
-                if (n > 0) {
-                    curBusArrivalTime += t;
-                    curPassengerCount = 0;
-                }
+            if (crewArrivalTime <= curBusArrivalTime) {
+                curPassengerCount++;
+                crewIdx = j;
             }
+            else
+                break;
 
+            if (curPassengerCount == m)
+                break;
         }
-        else {
-
-            n--;
-
-            while (n > 0) {
-
-                curBusArrivalTime += t;
-                curPassengerCount = 0;
-
-                if (curBusArrivalTime >= crewArrivalTime) {
-                    curPassengerCount = 1;
-                    crewIdx = i;
-                    break;
-                }
-
-                n--;
-            }
-        }
-
-        if (n == 0)
-            break;
     }
 
-    if (n > 0) {
-        answer = minToTime(curBusArrivalTime + t * (n - 1));
-    }
-    else {
-        if (curPassengerCount < m)
-            answer = minToTime(curBusArrivalTime);
-        else
-            answer = minToTime(crewArrivalTimes[crewIdx] - 1);
-    }
+    if (curPassengerCount < m)
+        answer = minToTime(curBusArrivalTime);
+    else
+        answer = minToTime(crewArrivalTimes[crewIdx] - 1);
 
     return answer;
 }
