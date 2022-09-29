@@ -2,7 +2,7 @@
 
 int main() {
 	
-	셔틀버스::service();
+	추석_트래픽::service();
 
 	return 0;
 }
