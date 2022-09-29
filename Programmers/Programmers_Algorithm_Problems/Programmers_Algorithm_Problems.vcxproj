@@ -216,6 +216,7 @@
     <ClCompile Include="최댓값과_최솟값.cpp" />
     <ClCompile Include="최솟값_만들기.cpp" />
     <ClCompile Include="최적의_행렬_곱셈.cpp" />
+    <ClCompile Include="추석_트래픽.cpp" />
     <ClCompile Include="카드_짝_맞추기.cpp" />
     <ClCompile Include="카펫.cpp" />
     <ClCompile Include="캐시.cpp" />
@@ -323,6 +324,7 @@
     <ClInclude Include="최댓값과_최솟값.h" />
     <ClInclude Include="최솟값_만들기.h" />
     <ClInclude Include="최적의_행렬_곱셈.h" />
+    <ClInclude Include="추석_트래픽.h" />
     <ClInclude Include="카드_짝_맞추기.h" />
     <ClInclude Include="카펫.h" />
     <ClInclude Include="캐시.h" />
