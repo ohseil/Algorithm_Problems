@@ -2,7 +2,7 @@
 
 int main() {
 	
-	추석_트래픽::service();
+	거리두기_확인하기::service();
 
 	return 0;
 }

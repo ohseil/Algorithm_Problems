@@ -465,6 +465,9 @@
     <ClCompile Include="추석_트래픽.cpp">
       <Filter>소스 파일\problems\2018 KAKAO BLIND RECRUITMENT</Filter>
     </ClCompile>
+    <ClCompile Include="거리두기_확인하기.cpp">
+      <Filter>소스 파일\problems\2021 카카오 채용연계형 인턴십</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -784,6 +787,9 @@
     </ClInclude>
     <ClInclude Include="추석_트래픽.h">
       <Filter>헤더 파일\problems\2018 KAKAO BLIND RECRUITMENT</Filter>
+    </ClInclude>
+    <ClInclude Include="거리두기_확인하기.h">
+      <Filter>헤더 파일\problems\2021 카카오 채용연계형 인턴십</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
