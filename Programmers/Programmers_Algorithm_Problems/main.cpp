@@ -2,7 +2,7 @@
 
 int main() {
 	
-	거리두기_확인하기::service();
+	표_편집::service();
 
 	return 0;
 }
