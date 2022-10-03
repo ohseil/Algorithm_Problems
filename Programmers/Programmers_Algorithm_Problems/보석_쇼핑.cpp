@@ -28,7 +28,6 @@ vector<int> solution(vector<string> gems) {
     hashMap<string, int> gemCounts;
 
     int start = 0, end = -1;
-    int size = 0;
 
     for (string gem : gems)
         gemList.insert(gem);
