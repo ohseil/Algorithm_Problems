@@ -471,6 +471,9 @@
     <ClCompile Include="표_편집.cpp">
       <Filter>소스 파일\problems\2021 카카오 채용연계형 인턴십</Filter>
     </ClCompile>
+    <ClCompile Include="보석_쇼핑.cpp">
+      <Filter>소스 파일\problems\2020 카카오 인턴십</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -796,6 +799,9 @@
     </ClInclude>
     <ClInclude Include="표_편집.h">
       <Filter>헤더 파일\problems\2021 카카오 채용연계형 인턴십</Filter>
+    </ClInclude>
+    <ClInclude Include="보석_쇼핑.h">
+      <Filter>헤더 파일\problems\2020 카카오 인턴십</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
