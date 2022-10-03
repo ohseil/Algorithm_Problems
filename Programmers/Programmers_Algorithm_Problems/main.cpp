@@ -2,7 +2,7 @@
 
 int main() {
 	
-	표_편집::service();
+	보석_쇼핑::service();
 
 	return 0;
 }
