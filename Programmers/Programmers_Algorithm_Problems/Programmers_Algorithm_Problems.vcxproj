@@ -188,6 +188,7 @@
     <ClCompile Include="섬_연결하기.cpp" />
     <ClCompile Include="셔틀버스.cpp" />
     <ClCompile Include="소수_찾기.cpp" />
+    <ClCompile Include="수식_최대화.cpp" />
     <ClCompile Include="순위.cpp" />
     <ClCompile Include="순위_검색.cpp" />
     <ClCompile Include="숫자_블록.cpp" />
@@ -299,6 +300,7 @@
     <ClInclude Include="섬_연결하기.h" />
     <ClInclude Include="셔틀버스.h" />
     <ClInclude Include="소수_찾기.h" />
+    <ClInclude Include="수식_최대화.h" />
     <ClInclude Include="순위.h" />
     <ClInclude Include="순위_검색.h" />
     <ClInclude Include="숫자_블록.h" />
