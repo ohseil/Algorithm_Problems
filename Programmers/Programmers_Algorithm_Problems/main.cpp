@@ -2,7 +2,7 @@
 
 int main() {
 	
-	보석_쇼핑::service();
+	수식_최대화::service();
 
 	return 0;
 }
