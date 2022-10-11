@@ -23,24 +23,25 @@ struct Route {
         : r(r), c(c), direction(direction), cost(cost) {}
 };
 
-struct VisitedCondition {
-    int direction;
-    int cost;
-    VisitedCondition(int direction, int cost)
-        : direction(direction), cost(cost) {}
-};
-
 bool isBoard(int r, int c, int maxR, int maxC) {
     return 0 <= r && r < maxR && 0 <= c && c < maxC;
 }
 
 int solution(vector<vector<int>> board) {
-    
+
+    // bfs로 모든 경로를 탐색한다.
+    // 이때, 기본적인 경로 탐색과는 다르게 방향을 고려해야 한다.
+    // 각 위치에 cost를 저장할 때,
+    // 방향까지 고려해서 4가지 방향에 대한 cost를 저장한다.
+    // 다음 경로를 진행할 때,
+    // 이전 방향과 다른 방향으로 진행할 때면 코너를 포함한 cost를 추가한다.
+    // 같은 방향으로 진행할 때면 직선 방향의 cost만을 추가한다.
+
     int answer = MAX_COST;
 
     int maxR = board.size();
     int maxC = board[0].size();
-    
+
     vector<vector<vector<int>>> validations(maxR, vector<vector<int>>(maxC, vector<int>(4, MAX_COST)));
 
     queue<Route> q;
