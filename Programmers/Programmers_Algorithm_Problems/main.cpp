@@ -2,7 +2,7 @@
 
 int main() {
 	
-	수식_최대화::service();
+	경주로_건설::service();
 
 	return 0;
 }
