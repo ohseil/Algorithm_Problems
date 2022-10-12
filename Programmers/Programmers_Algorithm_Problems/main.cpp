@@ -2,7 +2,7 @@
 
 int main() {
 	
-	튜플::service();
+	불량_사용자::service();
 
 	return 0;
 }
