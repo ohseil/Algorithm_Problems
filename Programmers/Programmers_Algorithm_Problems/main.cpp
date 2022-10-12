@@ -2,7 +2,7 @@
 
 int main() {
 	
-	경주로_건설::service();
+	튜플::service();
 
 	return 0;
 }
