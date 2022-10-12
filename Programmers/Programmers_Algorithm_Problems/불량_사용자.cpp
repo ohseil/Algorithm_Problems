@@ -11,6 +11,25 @@ using namespace std;
 
 #define hashSet unordered_set
 
+void makeBannedPattern(vector<string>& bannedIds, vector<regex>& bannedPatterns) {
+
+    for (string bannedId : bannedIds) {
+
+        string patternStr = "";
+
+        for (char ch : bannedId) {
+            if (ch == '*') {
+                patternStr += "[^*]";
+            }
+            else {
+                patternStr += ch;
+            }
+        }
+
+        bannedPatterns.push_back(regex(patternStr));
+    }
+}
+
 bool isBannedId(string& id, regex& bannedPattern) {
     return regex_match(id, bannedPattern);
 }
@@ -41,25 +60,6 @@ void matchErrorUserList(vector<string>& userIds, vector<regex>& bannedPatterns, 
         }
     }
 
-}
-
-void makeBannedPattern(vector<string>& bannedIds, vector<regex>& bannedPatterns) {
-    
-    for (string bannedId : bannedIds) {
-
-        string patternStr = "";
-
-        for (char ch : bannedId) {
-            if (ch == '*') {
-                patternStr += "[^*]";
-            }
-            else {
-                patternStr += ch;
-            }
-        }
-
-        bannedPatterns.push_back(regex(patternStr));
-    }
 }
 
 int solution(vector<string> user_id, vector<string> banned_id) {
