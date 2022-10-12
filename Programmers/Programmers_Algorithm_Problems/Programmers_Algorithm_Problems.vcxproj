@@ -228,6 +228,7 @@
     <ClCompile Include="코딩_테스트_공부.cpp" />
     <ClCompile Include="쿼드압축_후_개수_세기.cpp" />
     <ClCompile Include="큰_수_만들기.cpp" />
+    <ClCompile Include="튜플.cpp" />
     <ClCompile Include="파괴되지_않은_건물.cpp" />
     <ClCompile Include="파일명_정렬.cpp" />
     <ClCompile Include="표_편집.cpp" />
@@ -341,6 +342,7 @@
     <ClInclude Include="코딩_테스트_공부.h" />
     <ClInclude Include="쿼드압축_후_개수_세기.h" />
     <ClInclude Include="큰_수_만들기.h" />
+    <ClInclude Include="튜플.h" />
     <ClInclude Include="파괴되지_않은_건물.h" />
     <ClInclude Include="파일명_정렬.h" />
     <ClInclude Include="표_편집.h" />
