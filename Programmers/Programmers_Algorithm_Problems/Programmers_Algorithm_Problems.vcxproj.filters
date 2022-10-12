@@ -483,6 +483,9 @@
     <ClCompile Include="튜플.cpp">
       <Filter>소스 파일\problems\2019 카카오 개발자 겨울 인턴십</Filter>
     </ClCompile>
+    <ClCompile Include="불량_사용자.cpp">
+      <Filter>소스 파일\problems\2019 카카오 개발자 겨울 인턴십</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -819,6 +822,9 @@
       <Filter>헤더 파일\problems\2020 카카오 인턴십</Filter>
     </ClInclude>
     <ClInclude Include="튜플.h">
+      <Filter>헤더 파일\problems\2019 카카오 개발자 겨울 인턴십</Filter>
+    </ClInclude>
+    <ClInclude Include="불량_사용자.h">
       <Filter>헤더 파일\problems\2019 카카오 개발자 겨울 인턴십</Filter>
     </ClInclude>
   </ItemGroup>

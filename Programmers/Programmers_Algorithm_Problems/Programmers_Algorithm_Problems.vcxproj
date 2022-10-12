@@ -182,6 +182,7 @@
     <ClCompile Include="방금그곡.cpp" />
     <ClCompile Include="베스트앨범.cpp" />
     <ClCompile Include="보석_쇼핑.cpp" />
+    <ClCompile Include="불량_사용자.cpp" />
     <ClCompile Include="브라이언의_고민.cpp" />
     <ClCompile Include="블록_이동하기.cpp" />
     <ClCompile Include="사라지는_발판.cpp" />
@@ -296,6 +297,7 @@
     <ClInclude Include="방금그곡.h" />
     <ClInclude Include="베스트앨범.h" />
     <ClInclude Include="보석_쇼핑.h" />
+    <ClInclude Include="불량_사용자.h" />
     <ClInclude Include="브라이언의_고민.h" />
     <ClInclude Include="블록_이동하기.h" />
     <ClInclude Include="사라지는_발판.h" />
