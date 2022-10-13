@@ -2,7 +2,7 @@
 
 int main() {
 	
-	불량_사용자::service();
+	징검다리_건너기::service();
 
 	return 0;
 }

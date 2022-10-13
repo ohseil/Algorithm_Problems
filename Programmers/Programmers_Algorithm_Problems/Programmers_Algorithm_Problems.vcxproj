@@ -217,6 +217,7 @@
     <ClCompile Include="주식가격.cpp" />
     <ClCompile Include="주차_요금_계산.cpp" />
     <ClCompile Include="줄_서는_방법.cpp" />
+    <ClCompile Include="징검다리_건너기.cpp" />
     <ClCompile Include="최고의_집합.cpp" />
     <ClCompile Include="최댓값과_최솟값.cpp" />
     <ClCompile Include="최솟값_만들기.cpp" />
@@ -332,6 +333,7 @@
     <ClInclude Include="주식가격.h" />
     <ClInclude Include="주차_요금_계산.h" />
     <ClInclude Include="줄_서는_방법.h" />
+    <ClInclude Include="징검다리_건너기.h" />
     <ClInclude Include="최고의_집합.h" />
     <ClInclude Include="최댓값과_최솟값.h" />
     <ClInclude Include="최솟값_만들기.h" />
