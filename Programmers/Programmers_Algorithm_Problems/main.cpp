@@ -2,7 +2,7 @@
 
 int main() {
 	
-	징검다리_건너기::service();
+	카카오프렌즈_컬러링북::service();
 
 	return 0;
 }
