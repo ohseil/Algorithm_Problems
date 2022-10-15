@@ -224,6 +224,7 @@
     <ClCompile Include="최적의_행렬_곱셈.cpp" />
     <ClCompile Include="추석_트래픽.cpp" />
     <ClCompile Include="카드_짝_맞추기.cpp" />
+    <ClCompile Include="카카오프렌즈_컬러링북.cpp" />
     <ClCompile Include="카펫.cpp" />
     <ClCompile Include="캐시.cpp" />
     <ClCompile Include="캠핑.cpp" />
@@ -340,6 +341,7 @@
     <ClInclude Include="최적의_행렬_곱셈.h" />
     <ClInclude Include="추석_트래픽.h" />
     <ClInclude Include="카드_짝_맞추기.h" />
+    <ClInclude Include="카카오프렌즈_컬러링북.h" />
     <ClInclude Include="카펫.h" />
     <ClInclude Include="캐시.h" />
     <ClInclude Include="캠핑.h" />

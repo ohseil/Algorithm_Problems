@@ -489,6 +489,9 @@
     <ClCompile Include="징검다리_건너기.cpp">
       <Filter>소스 파일\problems\2019 카카오 개발자 겨울 인턴십</Filter>
     </ClCompile>
+    <ClCompile Include="카카오프렌즈_컬러링북.cpp">
+      <Filter>소스 파일\problems\2017 카카오코드 예선</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -832,6 +835,9 @@
     </ClInclude>
     <ClInclude Include="징검다리_건너기.h">
       <Filter>헤더 파일\problems\2019 카카오 개발자 겨울 인턴십</Filter>
+    </ClInclude>
+    <ClInclude Include="카카오프렌즈_컬러링북.h">
+      <Filter>헤더 파일\problems\2017 카카오코드 예선</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
