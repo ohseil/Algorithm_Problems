@@ -2,7 +2,7 @@
 
 int main() {
 	
-	카카오프렌즈_컬러링북::service();
+	보행자_천국::service();
 
 	return 0;
 }
