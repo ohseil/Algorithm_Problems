@@ -2,7 +2,7 @@
 
 int main() {
 	
-	보행자_천국::service();
+	단체사진_찍기::service();
 
 	return 0;
 }

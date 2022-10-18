@@ -114,3 +114,4 @@
 #include "징검다리_건너기.h"
 #include "카카오프렌즈_컬러링북.h"
 #include "보행자_천국.h"
+#include "단체사진_찍기.h"
