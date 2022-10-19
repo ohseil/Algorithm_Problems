@@ -498,6 +498,9 @@
     <ClCompile Include="단체사진_찍기.cpp">
       <Filter>소스 파일\problems\2017 카카오코드 본선</Filter>
     </ClCompile>
+    <ClCompile Include="빛의_경로_사이클.cpp">
+      <Filter>소스 파일\problems\월간 코드 챌린지 시즌3</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -850,6 +853,9 @@
     </ClInclude>
     <ClInclude Include="단체사진_찍기.h">
       <Filter>헤더 파일\problems\2017 카카오코드 본선</Filter>
+    </ClInclude>
+    <ClInclude Include="빛의_경로_사이클.h">
+      <Filter>헤더 파일\problems\월간 코드 챌린지 시즌3</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

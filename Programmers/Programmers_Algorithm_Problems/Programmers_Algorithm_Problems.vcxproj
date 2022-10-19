@@ -187,6 +187,7 @@
     <ClCompile Include="불량_사용자.cpp" />
     <ClCompile Include="브라이언의_고민.cpp" />
     <ClCompile Include="블록_이동하기.cpp" />
+    <ClCompile Include="빛의_경로_사이클.cpp" />
     <ClCompile Include="사라지는_발판.cpp" />
     <ClCompile Include="선입_선출_스케줄링.cpp" />
     <ClCompile Include="섬_연결하기.cpp" />
@@ -306,6 +307,7 @@
     <ClInclude Include="불량_사용자.h" />
     <ClInclude Include="브라이언의_고민.h" />
     <ClInclude Include="블록_이동하기.h" />
+    <ClInclude Include="빛의_경로_사이클.h" />
     <ClInclude Include="사라지는_발판.h" />
     <ClInclude Include="선입_선출_스케줄링.h" />
     <ClInclude Include="섬_연결하기.h" />
