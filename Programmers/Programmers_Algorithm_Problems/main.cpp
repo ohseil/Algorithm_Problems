@@ -2,7 +2,7 @@
 
 int main() {
 	
-	단체사진_찍기::service();
+	빛의_경로_사이클::service();
 
 	return 0;
 }
