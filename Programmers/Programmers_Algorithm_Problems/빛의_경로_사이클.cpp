@@ -55,8 +55,9 @@ int searchRoute(int startR, int startC, int startD, vector<string>& grid) {
 
     Node node(startR, startC, startD);
 
-    while (true) {
+    while (validations[node.r][node.c][node.fromDirection] == 0) {
 
+        validations[node.r][node.c][node.fromDirection] = 1;
         cycleSize++;
 
         int direction = findNextDirection(node.fromDirection, grid[node.r][node.c]);
@@ -64,24 +65,24 @@ int searchRoute(int startR, int startC, int startD, vector<string>& grid) {
         int nr = moveR(node.r, direction);
         int nc = moveC(node.c, direction);
 
-        if (nr == startR && nc == startC && direction == startD)
-            return cycleSize;
-
-        if (validations[nr][nc][direction] == 1) {
-            // cycle 없거나 중간에 cycle 있음
-            return 0;
-        }
-
-        node = Node(nr, nc, direction);
-        validations[nr][nc][direction] = 1;
+        Node nextNode(nr, nc, direction);
+        node = nextNode;
     }
+
+    return cycleSize;
 }
 
 vector<int> solution(vector<string> grid) {
     
     // 각 노드마다 4가지 방향으로부터 들어올 수 있다.
     // 노드의 위치와 이 4가지 경우로 루트를 구분한다.
-    // 모든 노드를 기준으로 4가지 시작루트로 시작해서 사이클이 있는지 탐색한다.
+    // 모든 노드를 기준으로 4가지 시작루트로 시작해서 사이클을 탐색한다.
+    
+    // 모든 시작 루트를 기준으로 무조건 사이클이 존재한다.
+    // 어떤 시작 루트를 기준으로 탐색을 할 때,
+    // 경로에 포함되는 노드에 다시 올 수 없다. 왜냐하면 그 노드로 도달할 수 있는 경로는 하나이기 때문.
+    // 그리고 grid에 외부 벽이 없기 때문에 만약 어떤 제한도 없다면 무한으로 이동이 가능하다.
+    // 그렇다면 무조건 처음 시작 루트에 도착할 수 밖에 없기 때문에 어떤 시작 루트를 기준으로 해도 사이클이 존재한다.
 
     vector<int> answer;
     
@@ -93,11 +94,6 @@ vector<int> solution(vector<string> grid) {
     for (int r = 0; r < maxR; r++) {
         for (int c = 0; c < maxC; c++) {
             for (int d = 0; d < 4; d++) {
-
-                if (validations[r][c][d] == 1)
-                    continue;
-
-                validations[r][c][d] = 1;
 
                 int cycleSize = searchRoute(r, c, d, grid);
 
