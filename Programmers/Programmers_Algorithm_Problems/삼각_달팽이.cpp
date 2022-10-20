@@ -7,7 +7,6 @@ using namespace std;
 ªÔ∞¢_¥ﬁ∆ÿ¿Ã_BEGIN
 
 int maxNum;
-
 int num;
 int dif;
 int pos;
@@ -16,19 +15,16 @@ void init(vector<int>& pyramid, int n) {
     
     maxNum = (n * (n + 1) / 2);
 
-    // padding
-    pyramid.assign((n + 1) * (n + 2) / 2 + 1, 0);
-    for (int i = (n * (n + 1) / 2) + 1; i < pyramid.size(); i++)
-        pyramid[i] = -1;
+    pyramid.assign(maxNum, 0);
 
-    pyramid[1] = 1;
+    pyramid[0] = 1;
     num = 2;
     dif = 1;
-    pos = 1;
+    pos = 0;
 }
 
 void fillLeftMoving(vector<int>& pyramid) {
-	while (pyramid[pos + dif] == 0) {
+	while (pos + dif < maxNum && pyramid[pos + dif] == 0) {
         pos += dif;
         pyramid[pos] = num;
         num++;
@@ -37,7 +33,7 @@ void fillLeftMoving(vector<int>& pyramid) {
 }
 
 void fillBottomMoving(vector<int>& pyramid) {
-	while (pyramid[pos + 1] == 0) {
+	while (pos + 1 < maxNum && pyramid[pos + 1] == 0) {
         pos++;
         pyramid[pos] = num;
         num++;
@@ -87,8 +83,7 @@ vector<int> solution(int n) {
 		fillRightMoving(pyramid);
 	}
 
-    for (int i = 1; i <= maxNum; i++)
-        answer.push_back(pyramid[i]);
+    answer = pyramid;
 
     return answer;
 }
