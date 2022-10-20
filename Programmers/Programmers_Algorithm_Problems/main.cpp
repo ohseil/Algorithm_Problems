@@ -2,7 +2,7 @@
 
 int main() {
 	
-	빛의_경로_사이클::service();
+	삼각_달팽이::service();
 
 	return 0;
 }
