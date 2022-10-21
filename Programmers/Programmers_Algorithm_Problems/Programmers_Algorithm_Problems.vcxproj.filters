@@ -504,6 +504,9 @@
     <ClCompile Include="삼각_달팽이.cpp">
       <Filter>소스 파일\problems\월간 코드 챌린지 시즌1</Filter>
     </ClCompile>
+    <ClCompile Include="풍선_터트리기.cpp">
+      <Filter>소스 파일\problems\월간 코드 챌린지 시즌1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -861,6 +864,9 @@
       <Filter>헤더 파일\problems\월간 코드 챌린지 시즌3</Filter>
     </ClInclude>
     <ClInclude Include="삼각_달팽이.h">
+      <Filter>헤더 파일\problems\월간 코드 챌린지 시즌1</Filter>
+    </ClInclude>
+    <ClInclude Include="풍선_터트리기.h">
       <Filter>헤더 파일\problems\월간 코드 챌린지 시즌1</Filter>
     </ClInclude>
   </ItemGroup>
