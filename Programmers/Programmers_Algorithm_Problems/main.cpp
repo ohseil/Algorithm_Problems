@@ -2,7 +2,7 @@
 
 int main() {
 	
-	풍선_터트리기::service();
+	멀쩡한_사각형::service();
 
 	return 0;
 }

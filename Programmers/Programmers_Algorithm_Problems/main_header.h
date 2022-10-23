@@ -118,3 +118,4 @@
 #include "빛의_경로_사이클.h"
 #include "삼각_달팽이.h"
 #include "풍선_터트리기.h"
+#include "멀쩡한_사각형.h"
