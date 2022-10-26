@@ -2,7 +2,7 @@
 
 int main() {
 	
-	멀쩡한_사각형::service();
+	방문_길이::service();
 
 	return 0;
 }
