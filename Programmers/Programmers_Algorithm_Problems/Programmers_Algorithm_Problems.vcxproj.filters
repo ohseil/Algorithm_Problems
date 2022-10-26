@@ -510,6 +510,9 @@
     <ClCompile Include="멀쩡한_사각형.cpp">
       <Filter>소스 파일\problems\Summer/Winter Coding%282019%29</Filter>
     </ClCompile>
+    <ClCompile Include="방문_길이.cpp">
+      <Filter>소스 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -874,6 +877,9 @@
     </ClInclude>
     <ClInclude Include="멀쩡한_사각형.h">
       <Filter>헤더 파일\problems\Summer/Winter Coding%282019%29</Filter>
+    </ClInclude>
+    <ClInclude Include="방문_길이.h">
+      <Filter>헤더 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
