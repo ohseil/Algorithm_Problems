@@ -2,7 +2,7 @@
 
 int main() {
 	
-	방문_길이::service();
+	스킬트리::service();
 
 	return 0;
 }
