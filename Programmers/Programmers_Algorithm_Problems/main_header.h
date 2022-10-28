@@ -121,3 +121,4 @@
 #include "멀쩡한_사각형.h"
 #include "방문_길이.h"
 #include "스킬트리.h"
+#include "숫자_게임.h"

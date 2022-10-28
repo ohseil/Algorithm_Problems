@@ -199,6 +199,7 @@
     <ClCompile Include="수식_최대화.cpp" />
     <ClCompile Include="순위.cpp" />
     <ClCompile Include="순위_검색.cpp" />
+    <ClCompile Include="숫자_게임.cpp" />
     <ClCompile Include="숫자_블록.cpp" />
     <ClCompile Include="숫자의_표현.cpp" />
     <ClCompile Include="스킬트리.cpp" />
@@ -324,6 +325,7 @@
     <ClInclude Include="수식_최대화.h" />
     <ClInclude Include="순위.h" />
     <ClInclude Include="순위_검색.h" />
+    <ClInclude Include="숫자_게임.h" />
     <ClInclude Include="숫자_블록.h" />
     <ClInclude Include="숫자의_표현.h" />
     <ClInclude Include="스킬트리.h" />
