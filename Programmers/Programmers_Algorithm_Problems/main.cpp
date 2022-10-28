@@ -2,7 +2,7 @@
 
 int main() {
 	
-	스킬트리::service();
+	숫자_게임::service();
 
 	return 0;
 }
