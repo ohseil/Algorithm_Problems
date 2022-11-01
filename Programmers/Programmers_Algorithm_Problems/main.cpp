@@ -2,7 +2,7 @@
 
 int main() {
 	
-	숫자_게임::service();
+	영어_끝말잇기::service();
 
 	return 0;
 }
