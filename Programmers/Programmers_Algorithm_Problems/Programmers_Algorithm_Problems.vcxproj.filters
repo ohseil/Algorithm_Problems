@@ -522,6 +522,9 @@
     <ClCompile Include="영어_끝말잇기.cpp">
       <Filter>소스 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
     </ClCompile>
+    <ClCompile Include="점프와_순간_이동.cpp">
+      <Filter>소스 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -897,6 +900,9 @@
       <Filter>헤더 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
     </ClInclude>
     <ClInclude Include="영어_끝말잇기.h">
+      <Filter>헤더 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
+    </ClInclude>
+    <ClInclude Include="점프와_순간_이동.h">
       <Filter>헤더 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
     </ClInclude>
   </ItemGroup>
