@@ -2,7 +2,7 @@
 
 int main() {
 	
-	영어_끝말잇기::service();
+	점프와_순간_이동::service();
 
 	return 0;
 }
