@@ -158,6 +158,7 @@
     <ClCompile Include="구명보트.cpp" />
     <ClCompile Include="금과_은_운반하기.cpp" />
     <ClCompile Include="기둥과_보_설치.cpp" />
+    <ClCompile Include="기지국_설치.cpp" />
     <ClCompile Include="길_찾기_게임.cpp" />
     <ClCompile Include="네트워크.cpp" />
     <ClCompile Include="뉴스_클러스터링.cpp" />
@@ -286,6 +287,7 @@
     <ClInclude Include="구명보트.h" />
     <ClInclude Include="금과_은_운반하기.h" />
     <ClInclude Include="기둥과_보_설치.h" />
+    <ClInclude Include="기지국_설치.h" />
     <ClInclude Include="길_찾기_게임.h" />
     <ClInclude Include="네트워크.h" />
     <ClInclude Include="뉴스_클러스터링.h" />
