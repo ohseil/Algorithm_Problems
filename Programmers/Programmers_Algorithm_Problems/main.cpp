@@ -2,7 +2,7 @@
 
 int main() {
 	
-	점프와_순간_이동::service();
+	기지국_설치::service();
 
 	return 0;
 }
