@@ -2,7 +2,7 @@
 
 int main() {
 	
-	기지국_설치::service();
+	배달::service();
 
 	return 0;
 }
