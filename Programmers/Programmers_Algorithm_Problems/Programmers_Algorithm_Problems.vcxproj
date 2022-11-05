@@ -184,6 +184,7 @@
     <ClCompile Include="문자열_압축.cpp" />
     <ClCompile Include="방금그곡.cpp" />
     <ClCompile Include="방문_길이.cpp" />
+    <ClCompile Include="배달.cpp" />
     <ClCompile Include="베스트앨범.cpp" />
     <ClCompile Include="보석_쇼핑.cpp" />
     <ClCompile Include="보행자_천국.cpp" />
@@ -313,6 +314,7 @@
     <ClInclude Include="문자열_압축.h" />
     <ClInclude Include="방금그곡.h" />
     <ClInclude Include="방문_길이.h" />
+    <ClInclude Include="배달.h" />
     <ClInclude Include="베스트앨범.h" />
     <ClInclude Include="보석_쇼핑.h" />
     <ClInclude Include="보행자_천국.h" />
