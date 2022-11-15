@@ -126,3 +126,4 @@
 #include "점프와_순간_이동.h"
 #include "기지국_설치.h"
 #include "배달.h"
+#include "스티커_모으기2.h"

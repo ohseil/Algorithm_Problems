@@ -206,6 +206,7 @@
     <ClCompile Include="숫자의_표현.cpp" />
     <ClCompile Include="스킬트리.cpp" />
     <ClCompile Include="스타_수열.cpp" />
+    <ClCompile Include="스티커_모으기2.cpp" />
     <ClCompile Include="아이템_줍기.cpp" />
     <ClCompile Include="압축.cpp" />
     <ClCompile Include="야근_지수.cpp" />
@@ -336,6 +337,7 @@
     <ClInclude Include="숫자의_표현.h" />
     <ClInclude Include="스킬트리.h" />
     <ClInclude Include="스타_수열.h" />
+    <ClInclude Include="스티커_모으기2.h" />
     <ClInclude Include="아이템_줍기.h" />
     <ClInclude Include="압축.h" />
     <ClInclude Include="야근_지수.h" />

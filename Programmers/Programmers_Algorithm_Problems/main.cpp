@@ -2,7 +2,7 @@
 
 int main() {
 	
-	배달::service();
+	스티커_모으기2::service();
 
 	return 0;
 }
