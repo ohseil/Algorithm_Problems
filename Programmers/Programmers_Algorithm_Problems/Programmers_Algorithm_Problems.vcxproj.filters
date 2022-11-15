@@ -531,6 +531,9 @@
     <ClCompile Include="배달.cpp">
       <Filter>소스 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
     </ClCompile>
+    <ClCompile Include="스티커_모으기2.cpp">
+      <Filter>소스 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -915,6 +918,9 @@
       <Filter>헤더 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
     </ClInclude>
     <ClInclude Include="배달.h">
+      <Filter>헤더 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
+    </ClInclude>
+    <ClInclude Include="스티커_모으기2.h">
       <Filter>헤더 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
     </ClInclude>
   </ItemGroup>
