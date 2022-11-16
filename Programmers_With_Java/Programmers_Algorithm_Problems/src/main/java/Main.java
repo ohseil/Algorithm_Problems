@@ -1,4 +1,4 @@
-import Problems.Summer_Winter_Coding_to_2018.스티커_모으기2.Solution;
+import Problems.팁스타운_2017.짝지어_제거하기.Solution;
 
 public class Main {
 
