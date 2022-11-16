@@ -127,3 +127,4 @@
 #include "기지국_설치.h"
 #include "배달.h"
 #include "스티커_모으기2.h"
+#include "짝지어_제거하기.h"
