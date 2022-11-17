@@ -203,6 +203,7 @@
     <ClCompile Include="순위_검색.cpp" />
     <ClCompile Include="숫자_게임.cpp" />
     <ClCompile Include="숫자_블록.cpp" />
+    <ClCompile Include="숫자_카드_나누기.cpp" />
     <ClCompile Include="숫자의_표현.cpp" />
     <ClCompile Include="스킬트리.cpp" />
     <ClCompile Include="스타_수열.cpp" />
@@ -335,6 +336,7 @@
     <ClInclude Include="순위_검색.h" />
     <ClInclude Include="숫자_게임.h" />
     <ClInclude Include="숫자_블록.h" />
+    <ClInclude Include="숫자_카드_나누기.h" />
     <ClInclude Include="숫자의_표현.h" />
     <ClInclude Include="스킬트리.h" />
     <ClInclude Include="스타_수열.h" />
