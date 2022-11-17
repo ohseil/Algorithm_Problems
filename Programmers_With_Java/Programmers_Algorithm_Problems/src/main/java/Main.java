@@ -1,4 +1,4 @@
-import Problems.팁스타운_2017.짝지어_제거하기.Solution;
+import Problems.연습문제.숫자_카드_나누기.Solution;
 
 public class Main {
 
