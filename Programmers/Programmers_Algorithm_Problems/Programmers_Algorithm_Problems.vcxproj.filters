@@ -537,6 +537,9 @@
     <ClCompile Include="짝지어_제거하기.cpp">
       <Filter>소스 파일\problems\2017 팁스타운</Filter>
     </ClCompile>
+    <ClCompile Include="숫자_카드_나누기.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -928,6 +931,9 @@
     </ClInclude>
     <ClInclude Include="짝지어_제거하기.h">
       <Filter>헤더 파일\problems\2017 팁스타운</Filter>
+    </ClInclude>
+    <ClInclude Include="숫자_카드_나누기.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
