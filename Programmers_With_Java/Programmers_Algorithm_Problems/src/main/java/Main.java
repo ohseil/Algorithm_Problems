@@ -1,4 +1,4 @@
-import Problems.연습문제.숫자_카드_나누기.Solution;
+import Problems.연습문제.숫자_타자_대회.Solution;
 
 public class Main {
 
