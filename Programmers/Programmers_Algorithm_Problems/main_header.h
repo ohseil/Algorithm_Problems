@@ -129,3 +129,4 @@
 #include "스티커_모으기2.h"
 #include "짝지어_제거하기.h"
 #include "숫자_카드_나누기.h"
+#include "숫자_타자_대회.h"
