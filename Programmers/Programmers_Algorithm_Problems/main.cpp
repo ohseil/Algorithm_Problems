@@ -2,7 +2,7 @@
 
 int main() {
 	
-	숫자_카드_나누기::service();
+	숫자_타자_대회::service();
 
 	return 0;
 }
