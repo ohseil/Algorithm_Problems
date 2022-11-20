@@ -130,3 +130,4 @@
 #include "짝지어_제거하기.h"
 #include "숫자_카드_나누기.h"
 #include "숫자_타자_대회.h"
+#include "우박수열_정적분.h"

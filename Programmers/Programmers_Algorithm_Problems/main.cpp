@@ -2,7 +2,7 @@
 
 int main() {
 	
-	숫자_타자_대회::service();
+	우박수열_정적분::service();
 
 	return 0;
 }
