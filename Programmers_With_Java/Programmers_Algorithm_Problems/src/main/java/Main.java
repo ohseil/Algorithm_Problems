@@ -1,4 +1,4 @@
-import Problems.연습문제.숫자_타자_대회.Solution;
+import Problems.연습문제.우박수열_정적분.Solution;
 
 public class Main {
 
