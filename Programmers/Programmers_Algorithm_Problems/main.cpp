@@ -2,7 +2,7 @@
 
 int main() {
 	
-	우박수열_정적분::service();
+	등대::service();
 
 	return 0;
 }
