@@ -1,4 +1,4 @@
-import Problems.연습문제.등대.Solution;
+import Problems.연습문제.할인_행사.Solution;
 
 public class Main {
 
