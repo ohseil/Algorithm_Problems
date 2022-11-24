@@ -549,6 +549,9 @@
     <ClCompile Include="등대.cpp">
       <Filter>소스 파일\problems\연습문제</Filter>
     </ClCompile>
+    <ClCompile Include="할인_행사.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -951,6 +954,9 @@
       <Filter>헤더 파일\problems\연습문제</Filter>
     </ClInclude>
     <ClInclude Include="등대.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="할인_행사.h">
       <Filter>헤더 파일\problems\연습문제</Filter>
     </ClInclude>
   </ItemGroup>

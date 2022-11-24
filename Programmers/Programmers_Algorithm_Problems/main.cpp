@@ -2,7 +2,7 @@
 
 int main() {
 	
-	등대::service();
+	할인_행사::service();
 
 	return 0;
 }

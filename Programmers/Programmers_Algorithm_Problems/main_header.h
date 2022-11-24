@@ -132,3 +132,4 @@
 #include "숫자_타자_대회.h"
 #include "우박수열_정적분.h"
 #include "등대.h"
+#include "할인_행사.h"
