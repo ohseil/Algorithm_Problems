@@ -1,4 +1,4 @@
-import Problems.연습문제.할인_행사.Solution;
+import Problems.연습문제.혼자_놀기의_달인.Solution;
 
 public class Main {
 
