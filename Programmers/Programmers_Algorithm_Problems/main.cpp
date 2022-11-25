@@ -2,7 +2,7 @@
 
 int main() {
 	
-	할인_행사::service();
+	혼자_놀기의_달인::service();
 
 	return 0;
 }
