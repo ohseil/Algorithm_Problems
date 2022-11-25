@@ -133,3 +133,4 @@
 #include "우박수열_정적분.h"
 #include "등대.h"
 #include "할인_행사.h"
+#include "혼자_놀기의_달인.h"
