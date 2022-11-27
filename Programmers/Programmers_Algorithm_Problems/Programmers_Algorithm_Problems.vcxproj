@@ -156,6 +156,7 @@
     <ClCompile Include="광고_삽입.cpp" />
     <ClCompile Include="교점에_별_만들기.cpp" />
     <ClCompile Include="구명보트.cpp" />
+    <ClCompile Include="귤_고르기.cpp" />
     <ClCompile Include="금과_은_운반하기.cpp" />
     <ClCompile Include="기둥과_보_설치.cpp" />
     <ClCompile Include="기지국_설치.cpp" />
@@ -294,6 +295,7 @@
     <ClInclude Include="광고_삽입.h" />
     <ClInclude Include="교점에_별_만들기.h" />
     <ClInclude Include="구명보트.h" />
+    <ClInclude Include="귤_고르기.h" />
     <ClInclude Include="금과_은_운반하기.h" />
     <ClInclude Include="기둥과_보_설치.h" />
     <ClInclude Include="기지국_설치.h" />

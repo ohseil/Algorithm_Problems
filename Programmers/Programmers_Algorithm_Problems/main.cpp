@@ -2,7 +2,7 @@
 
 int main() {
 	
-	혼자_놀기의_달인::service();
+	귤_고르기::service();
 
 	return 0;
 }
