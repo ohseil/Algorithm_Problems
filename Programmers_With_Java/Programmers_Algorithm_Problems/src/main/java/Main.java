@@ -1,4 +1,4 @@
-import Problems.연습문제.혼자_놀기의_달인.Solution;
+import Problems.연습문제.귤_고르기.Solution;
 
 public class Main {
 
