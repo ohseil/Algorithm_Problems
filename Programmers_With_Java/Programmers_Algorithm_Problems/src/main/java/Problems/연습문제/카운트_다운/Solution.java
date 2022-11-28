@@ -11,6 +11,28 @@ public class Solution {
 
     private int bestPlayToGetScoreList[][];
 
+    private void initBestPlayToGetScoreList() {
+
+        bestPlayToGetScoreList = new int[MAX_TOTAL_SCORE_CAN_GET + 1][2];
+
+        for (int score = 1; score <= MAX_SINGLE_SCORE; score++) {
+
+            int doubleScore = score * 2;
+            int tripleScore = score * 3;
+
+            bestPlayToGetScoreList[score][IDX_NUM_OF_DART] = 1;
+            bestPlayToGetScoreList[score][IDX_NUM_OF_SINGLE_OR_BULL] = 1;
+            bestPlayToGetScoreList[doubleScore][IDX_NUM_OF_DART] = 1;
+            bestPlayToGetScoreList[doubleScore][IDX_NUM_OF_SINGLE_OR_BULL] = 0;
+            bestPlayToGetScoreList[tripleScore][IDX_NUM_OF_DART] = 1;
+            bestPlayToGetScoreList[tripleScore][IDX_NUM_OF_SINGLE_OR_BULL] = 0;
+        }
+
+        bestPlayToGetScoreList[BULL_SCORE][IDX_NUM_OF_DART] = 1;
+        bestPlayToGetScoreList[BULL_SCORE][IDX_NUM_OF_SINGLE_OR_BULL] = 1;
+
+    }
+
     private boolean canGetScoreInOneDart(final int score) { return bestPlayToGetScoreList[score][0] == 1; }
 
     private void findBestPlayToGetScore(final int score, final int maxScoreToGet) {
@@ -43,28 +65,6 @@ public class Solution {
 
         bestPlayToGetScoreList[score][IDX_NUM_OF_DART] = minNumOfDart;
         bestPlayToGetScoreList[score][IDX_NUM_OF_SINGLE_OR_BULL] = maxNumOfSingleOrBull;
-
-    }
-
-    private void initBestPlayToGetScoreList() {
-
-        bestPlayToGetScoreList = new int[MAX_TOTAL_SCORE_CAN_GET + 1][2];
-
-        for (int score = 1; score <= MAX_SINGLE_SCORE; score++) {
-
-            int doubleScore = score * 2;
-            int tripleScore = score * 3;
-
-            bestPlayToGetScoreList[score][IDX_NUM_OF_DART] = 1;
-            bestPlayToGetScoreList[score][IDX_NUM_OF_SINGLE_OR_BULL] = 1;
-            bestPlayToGetScoreList[doubleScore][IDX_NUM_OF_DART] = 1;
-            bestPlayToGetScoreList[doubleScore][IDX_NUM_OF_SINGLE_OR_BULL] = 0;
-            bestPlayToGetScoreList[tripleScore][IDX_NUM_OF_DART] = 1;
-            bestPlayToGetScoreList[tripleScore][IDX_NUM_OF_SINGLE_OR_BULL] = 0;
-        }
-
-        bestPlayToGetScoreList[BULL_SCORE][IDX_NUM_OF_DART] = 1;
-        bestPlayToGetScoreList[BULL_SCORE][IDX_NUM_OF_SINGLE_OR_BULL] = 1;
 
     }
 
