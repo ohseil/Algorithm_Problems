@@ -2,7 +2,7 @@
 
 int main() {
 	
-	귤_고르기::service();
+	카운트_다운::service();
 
 	return 0;
 }
