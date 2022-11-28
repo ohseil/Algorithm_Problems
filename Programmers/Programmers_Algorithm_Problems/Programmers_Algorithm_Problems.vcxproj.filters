@@ -558,6 +558,9 @@
     <ClCompile Include="귤_고르기.cpp">
       <Filter>소스 파일\problems\연습문제</Filter>
     </ClCompile>
+    <ClCompile Include="카운트_다운.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -969,6 +972,9 @@
       <Filter>헤더 파일\problems\연습문제</Filter>
     </ClInclude>
     <ClInclude Include="귤_고르기.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="카운트_다운.h">
       <Filter>헤더 파일\problems\연습문제</Filter>
     </ClInclude>
   </ItemGroup>
