@@ -1,4 +1,4 @@
-import Problems.연습문제.귤_고르기.Solution;
+import Problems.연습문제.카운트_다운.Solution;
 
 public class Main {
 
