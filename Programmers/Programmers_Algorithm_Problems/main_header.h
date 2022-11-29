@@ -136,3 +136,4 @@
 #include "혼자_놀기의_달인.h"
 #include "귤_고르기.h"
 #include "카운트_다운.h"
+#include "연속_부분_수열_합의_개수.h"

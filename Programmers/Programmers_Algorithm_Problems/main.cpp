@@ -2,7 +2,7 @@
 
 int main() {
 	
-	카운트_다운::service();
+	연속_부분_수열_합의_개수::service();
 
 	return 0;
 }
