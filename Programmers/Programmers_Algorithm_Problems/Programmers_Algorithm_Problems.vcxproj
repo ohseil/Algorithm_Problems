@@ -216,6 +216,7 @@
     <ClCompile Include="야근_지수.cpp" />
     <ClCompile Include="양과_늑대.cpp" />
     <ClCompile Include="양궁대회.cpp" />
+    <ClCompile Include="연속_부분_수열_합의_개수.cpp" />
     <ClCompile Include="영어_끝말잇기.cpp" />
     <ClCompile Include="예상_대진표.cpp" />
     <ClCompile Include="오픈채팅방.cpp" />
@@ -356,6 +357,7 @@
     <ClInclude Include="야근_지수.h" />
     <ClInclude Include="양과_늑대.h" />
     <ClInclude Include="양궁대회.h" />
+    <ClInclude Include="연속_부분_수열_합의_개수.h" />
     <ClInclude Include="영어_끝말잇기.h" />
     <ClInclude Include="예상_대진표.h" />
     <ClInclude Include="오픈채팅방.h" />
