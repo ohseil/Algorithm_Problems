@@ -1,4 +1,4 @@
-import Problems.연습문제.카운트_다운.Solution;
+import Problems.연습문제.연속_부분_수열_합의_개수.Solution;
 
 public class Main {
 
