@@ -1,4 +1,4 @@
-import Problems.연습문제.연속_부분_수열_합의_개수.Solution;
+import Problems.연습문제.택배상자.Solution;
 
 public class Main {
 
