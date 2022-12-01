@@ -2,7 +2,7 @@
 
 int main() {
 	
-	연속_부분_수열_합의_개수::service();
+	택배상자::service();
 
 	return 0;
 }
