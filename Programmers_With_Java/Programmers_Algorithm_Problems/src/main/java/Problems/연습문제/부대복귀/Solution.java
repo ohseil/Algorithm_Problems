@@ -45,18 +45,19 @@ public class Solution {
     private void findShortestDistFromDestinationToAllRegion(final int destination) {
 
         // 목적지부터 BFS.
-        shortestDistFromDestinationList[destination] = 0;
 
         Queue<Integer> queue = new LinkedList<>();
+
         queue.add(destination);
+        shortestDistFromDestinationList[destination] = 0;
 
         while (queue.isEmpty() == false) {
 
             int regionNum = queue.poll();
+            int distToRegion = shortestDistFromDestinationList[regionNum];
 
             for (int nextRegionNum : roadMap.get(regionNum).keySet()) {
 
-                int distToRegion = shortestDistFromDestinationList[regionNum];
                 int distToNextRegion = shortestDistFromDestinationList[nextRegionNum];
 
                 if (distToRegion + COST_PER_ROAD >= distToNextRegion)
@@ -74,11 +75,11 @@ public class Solution {
 
         /*
 
-        목적지를 출발점으로 해서 모든 지역까지 최단 거리를 BFS로 구한다.
-        만약 길을 통과하는데 걸리는 시간이 고정되어 있지 않았다면,
-        다익스트라 알고리즘을 사용했을 것이다.
-        하지만 걸리는 시간이 고정되어 있기 때문에,
-        BFS만 사용해도 모든 지역까지의 최단 거리를 구할 수 있다.
+            목적지를 출발점으로 해서 모든 지역까지 최단 거리를 BFS로 구한다.
+            만약 길을 통과하는데 걸리는 시간이 고정되어 있지 않았다면,
+            다익스트라 알고리즘을 사용했을 것이다.
+            하지만 걸리는 시간이 고정되어 있기 때문에,
+            BFS만 사용해도 모든 지역까지의 최단 거리를 구할 수 있다.
 
          */
 
