@@ -2,7 +2,7 @@
 
 int main() {
 	
-	택배상자::service();
+	롤케이크_자르기::service();
 
 	return 0;
 }
