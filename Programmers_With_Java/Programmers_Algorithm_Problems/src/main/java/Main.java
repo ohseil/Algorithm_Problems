@@ -1,4 +1,4 @@
-import Problems.연습문제.택배상자.Solution;
+import Problems.연습문제.롤케이크_자르기.Solution;
 
 public class Main {
 
