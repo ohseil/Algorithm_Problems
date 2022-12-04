@@ -42,7 +42,7 @@ public class Solution {
 
     }
 
-    private void findShortestDistFromDestinationToAllMember(final int destination) {
+    private void findShortestDistFromDestinationToAllRegion(final int destination) {
 
         // 목적지부터 BFS.
         shortestDistFromDestinationList[destination] = 0;
@@ -86,7 +86,7 @@ public class Solution {
 
         init(n);
         makeRoadMap(roads);
-        findShortestDistFromDestinationToAllMember(destination);
+        findShortestDistFromDestinationToAllRegion(destination);
 
         for (int i = 0; i < sources.length; i++) {
 
