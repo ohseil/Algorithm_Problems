@@ -2,7 +2,7 @@
 
 int main() {
 	
-	롤케이크_자르기::service();
+	부대복귀::service();
 
 	return 0;
 }
