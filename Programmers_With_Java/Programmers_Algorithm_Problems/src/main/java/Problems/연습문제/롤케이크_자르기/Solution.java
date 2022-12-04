@@ -24,32 +24,32 @@ public class Solution {
 
         }
 
-        int getNumOfToppingTypes() {
+        int getNumOfToppingType() {
             return toppingMap.size();
         }
 
     }
 
-    private Rollcake rollcake1;
-    private Rollcake rollcake2;
+    private Rollcake leftPiece;
+    private Rollcake rightPiece;
 
     private void init() {
-        rollcake1 = new Rollcake();
-        rollcake2 = new Rollcake();
+        leftPiece = new Rollcake();
+        rightPiece = new Rollcake();
     }
 
     private void makeRollcake(final int[] toppings) {
         for (int toppingType : toppings)
-            rollcake2.addTopping(toppingType);
+            rightPiece.addTopping(toppingType);
     }
 
     private void cutRollcake(final int toppingType) {
-        rollcake1.addTopping(toppingType);
-        rollcake2.removeTopping(toppingType);
+        leftPiece.addTopping(toppingType);
+        rightPiece.removeTopping(toppingType);
     }
 
     private boolean isSameNumOfToppingTypeInAllRollcakePiece() {
-        return rollcake1.getNumOfToppingTypes() == rollcake2.getNumOfToppingTypes();
+        return leftPiece.getNumOfToppingType() == rightPiece.getNumOfToppingType();
     }
 
     public int solution(int[] topping) {
