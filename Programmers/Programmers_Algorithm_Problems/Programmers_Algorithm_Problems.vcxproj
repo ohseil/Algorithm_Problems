@@ -175,6 +175,7 @@
     <ClCompile Include="등산코스_정하기.cpp" />
     <ClCompile Include="디스크_컨트롤러.cpp" />
     <ClCompile Include="땅따먹기.cpp" />
+    <ClCompile Include="롤케이크_자르기.cpp" />
     <ClCompile Include="리틀_프렌즈_사천성.cpp" />
     <ClCompile Include="매칭_점수.cpp" />
     <ClCompile Include="멀리_뛰기.cpp" />
@@ -317,6 +318,7 @@
     <ClInclude Include="등산코스_정하기.h" />
     <ClInclude Include="디스크_컨트롤러.h" />
     <ClInclude Include="땅따먹기.h" />
+    <ClInclude Include="롤케이크_자르기.h" />
     <ClInclude Include="리틀_프렌즈_사천성.h" />
     <ClInclude Include="매칭_점수.h" />
     <ClInclude Include="멀리_뛰기.h" />
