@@ -1,4 +1,4 @@
-import Problems.연습문제._2차원_동전_뒤집기.Solution;
+import Problems.연습문제.점_찍기.Solution;
 
 public class Main {
 
