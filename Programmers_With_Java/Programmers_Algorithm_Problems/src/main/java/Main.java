@@ -1,4 +1,4 @@
-import Problems.연습문제.디펜스_게임.Solution;
+import Problems.연습문제.억억단을_외우자.Solution;
 
 public class Main {
 
