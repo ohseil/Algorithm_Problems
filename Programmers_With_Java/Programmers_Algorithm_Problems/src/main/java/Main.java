@@ -1,4 +1,4 @@
-import Problems.연습문제.억억단을_외우자.Solution;
+import Problems.연습문제.가장_가까운_같은_글자.Solution;
 
 public class Main {
 
