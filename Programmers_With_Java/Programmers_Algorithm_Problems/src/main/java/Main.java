@@ -1,4 +1,4 @@
-import Problems.연습문제.가장_가까운_같은_글자.Solution;
+import Problems.연습문제._2016년.Solution;
 
 public class Main {
 
