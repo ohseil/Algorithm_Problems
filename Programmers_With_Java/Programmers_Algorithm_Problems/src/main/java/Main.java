@@ -1,4 +1,4 @@
-import Problems.연습문제.가운데_글자_가져오기.Solution;
+import Problems.스택_큐.같은_숫자는_싫어.Solution;
 
 public class Main {
 
