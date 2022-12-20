@@ -1,4 +1,4 @@
-import Problems.정렬.가장_큰_수.Solution;
+import Problems.연습문제.이상한_문자_만들기.Solution;
 
 public class Main {
 
