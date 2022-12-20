@@ -1,4 +1,4 @@
-import Problems.연습문제.나누어_떨어지는_숫자_배열.Solution;
+import Problems.연습문제.두_정수_사이의_합.Solution;
 
 public class Main {
 
