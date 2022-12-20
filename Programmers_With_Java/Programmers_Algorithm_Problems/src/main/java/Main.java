@@ -1,4 +1,4 @@
-import Problems.연습문제.두_정수_사이의_합.Solution;
+import Problems.연습문제.문자열_내_마음대로_정렬하기.Solution;
 
 public class Main {
 
