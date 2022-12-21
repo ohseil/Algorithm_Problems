@@ -1,4 +1,4 @@
-import Problems.연습문제.이상한_문자_만들기.Solution;
+import Problems.연습문제.문자열_내_p와_y의_개수.Solution;
 
 public class Main {
 
