@@ -1,4 +1,4 @@
-import Problems.연습문제.문자열_다루기_기본.Solution;
+import Problems.연습문제.JadenCase_문자열_만들기.Solution;
 
 public class Main {
 
