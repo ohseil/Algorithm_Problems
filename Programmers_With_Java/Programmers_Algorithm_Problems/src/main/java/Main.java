@@ -1,4 +1,4 @@
-import Problems.연습문제.문자열_내림차순으로_배치하기.Solution;
+import Problems.연습문제.문자열_다루기_기본.Solution;
 
 public class Main {
 
