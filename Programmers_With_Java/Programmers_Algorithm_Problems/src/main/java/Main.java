@@ -1,4 +1,4 @@
-import Problems.깊이_너비_우선_탐색_DFS_BFS.게임_맵_최단거리.Solution;
+import Problems.코딩테스트_입문.최빈값_구하기.Solution;
 
 public class Main {
 
