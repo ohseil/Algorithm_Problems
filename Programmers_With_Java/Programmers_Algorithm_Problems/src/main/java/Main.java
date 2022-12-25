@@ -1,4 +1,4 @@
-import Problems.연습문제.서울에서_김서방_찾기.Solution;
+import Problems.연습문제.소수_찾기.Solution;
 
 public class Main {
 
