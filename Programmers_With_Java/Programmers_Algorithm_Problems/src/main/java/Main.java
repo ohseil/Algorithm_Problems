@@ -1,4 +1,4 @@
-import Problems.연습문제.수박수박수박수박수박수.Solution;
+import Problems.연습문제.문자열을_정수로_바꾸기.Solution;
 
 public class Main {
 
