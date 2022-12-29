@@ -1,4 +1,4 @@
-import Problems.코딩테스트_입문.최빈값_구하기.Solution;
+import Problems.연습문제.수박수박수박수박수박수.Solution;
 
 public class Main {
 
