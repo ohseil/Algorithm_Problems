@@ -1,4 +1,4 @@
-import Problems._2022_KAKAO_BLIND_RECRUITMENT.신고_결과_받기.Solution;
+import Problems.연습문제.시저_암호.Solution;
 
 public class Main {
 
