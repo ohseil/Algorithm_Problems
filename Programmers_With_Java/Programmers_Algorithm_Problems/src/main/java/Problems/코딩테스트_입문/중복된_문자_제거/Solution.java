@@ -1,7 +1,7 @@
 package Problems.코딩테스트_입문.중복된_문자_제거;
 
+import java.util.HashSet;
 import java.util.Set;
-import java.util.TreeSet;
 
 public class Solution {
 
@@ -18,15 +18,18 @@ public class Solution {
 
         String answer = "";
 
-        Set<Integer> set = new TreeSet<>();
+        Set<Character> charSet = new HashSet<>();
 
-        for (char ch : my_string.toCharArray()) {
-            int idx = my_string.indexOf(ch);
-            set.add(idx);
-        }
+        for (int i = 0; i < my_string.length(); i++) {
 
-        for (int idx : set) {
-            answer += my_string.charAt(idx);
+            char ch = my_string.charAt(i);
+
+            if (charSet.contains(ch) == true)
+                continue;
+
+            answer += ch;
+            charSet.add(ch);
+
         }
 
         return answer;
