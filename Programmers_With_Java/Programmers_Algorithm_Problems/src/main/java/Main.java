@@ -1,4 +1,4 @@
-import Problems.코딩테스트_입문.중복된_문자_제거.Solution;
+import Problems.코딩테스트_입문.옷가게_할인_받기.Solution;
 
 public class Main {
 
