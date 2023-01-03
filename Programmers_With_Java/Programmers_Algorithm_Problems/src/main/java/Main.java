@@ -1,4 +1,4 @@
-import Problems.연습문제.마법의_엘리베이터.Solution;
+import Problems.Summer_Winter_Coding_to_2018.숫자_게임.Solution;
 
 public class Main {
 
