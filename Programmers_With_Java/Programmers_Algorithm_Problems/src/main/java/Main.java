@@ -1,4 +1,4 @@
-import Problems.연습문제.자릿수_더하기.Solution;
+import Problems.연습문제.마법의_엘리베이터.Solution;
 
 public class Main {
 
