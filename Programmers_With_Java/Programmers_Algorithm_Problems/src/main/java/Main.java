@@ -1,4 +1,4 @@
-import Problems.코딩테스트_입문.구슬을_나누는_경우의_수.Solution;
+import Problems.연습문제.자릿수_더하기.Solution;
 
 public class Main {
 
