@@ -1,4 +1,4 @@
-import Problems.코딩테스트_입문.가까운_수.Solution;
+import Problems.코딩테스트_입문.모스부호1.Solution;
 
 public class Main {
 
