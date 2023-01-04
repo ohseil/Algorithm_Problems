@@ -1,4 +1,4 @@
-import Problems.Summer_Winter_Coding_to_2018.숫자_게임.Solution;
+import Problems.코딩테스트_입문.가까운_수.Solution;
 
 public class Main {
 
