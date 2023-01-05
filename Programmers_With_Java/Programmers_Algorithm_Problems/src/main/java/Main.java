@@ -1,4 +1,4 @@
-import Problems.코딩테스트_입문.특정_문자_제거하기.Solution;
+import Problems.탐욕법_Greedy.큰_수_만들기.Solution;
 
 public class Main {
 
