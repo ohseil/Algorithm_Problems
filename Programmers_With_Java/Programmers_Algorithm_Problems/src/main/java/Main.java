@@ -1,4 +1,4 @@
-import Problems.연습문제.크기가_작은_부분_문자열.Solution;
+import Problems.연습문제.숫자_짝꿍.Solution;
 
 public class Main {
 
