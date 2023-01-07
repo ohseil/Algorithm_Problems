@@ -1,4 +1,4 @@
-import Problems.연습문제.숫자_짝꿍.Solution;
+import Problems.정렬.H_Index.Solution;
 
 public class Main {
 
