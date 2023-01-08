@@ -1,4 +1,4 @@
-import Problems.연습문제.자연수_뒤집어_배열로_만들기.Solution;
+import Problems.연습문제.정수_내림차순으로_배치하기.Solution;
 
 public class Main {
 
