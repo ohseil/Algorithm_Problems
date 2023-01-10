@@ -1,4 +1,4 @@
-import Problems.연습문제.제일_작은_수_제거하기.Solution;
+import Problems.연습문제.짝수와_홀수.Solution;
 
 public class Main {
 
