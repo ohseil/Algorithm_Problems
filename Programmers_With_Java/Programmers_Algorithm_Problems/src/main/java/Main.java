@@ -1,4 +1,4 @@
-import Problems.연습문제.최대공약수와_최소공배수.Solution;
+import Problems.연습문제.콜라츠_추측.Solution;
 
 public class Main {
 
