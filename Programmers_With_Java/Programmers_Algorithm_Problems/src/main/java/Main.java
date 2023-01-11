@@ -1,4 +1,4 @@
-import Problems.연습문제.짝수와_홀수.Solution;
+import Problems.연습문제.최대공약수와_최소공배수.Solution;
 
 public class Main {
 
