@@ -1,4 +1,4 @@
-import Problems.연습문제.콜라츠_추측.Solution;
+import Problems.연습문제.평균_구하기.Solution;
 
 public class Main {
 
