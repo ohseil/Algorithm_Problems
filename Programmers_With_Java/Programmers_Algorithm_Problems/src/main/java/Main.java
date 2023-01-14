@@ -1,4 +1,4 @@
-import Problems.연습문제.평균_구하기.Solution;
+import Problems.연습문제.하샤드_수.Solution;
 
 public class Main {
 
