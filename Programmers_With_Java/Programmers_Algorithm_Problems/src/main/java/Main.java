@@ -1,4 +1,4 @@
-import Problems.연습문제.하샤드_수.Solution;
+import Problems.연습문제.핸드폰_번호_가리기.Solution;
 
 public class Main {
 
