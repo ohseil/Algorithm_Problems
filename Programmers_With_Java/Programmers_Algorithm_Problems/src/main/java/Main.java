@@ -1,4 +1,4 @@
-import Problems.연습문제.x만큼_간격이_있는_n개의_숫자.Solution;
+import Problems.연습문제.시소_짝꿍.Solution;
 
 public class Main {
 
