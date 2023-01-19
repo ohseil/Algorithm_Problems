@@ -1,4 +1,4 @@
-import Problems.연습문제.핸드폰_번호_가리기.Solution;
+import Problems.연습문제.행렬의_덧셈.Solution;
 
 public class Main {
 
