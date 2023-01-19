@@ -1,4 +1,4 @@
-import Problems.연습문제.행렬의_덧셈.Solution;
+import Problems.연습문제.x만큼_간격이_있는_n개의_숫자.Solution;
 
 public class Main {
 
