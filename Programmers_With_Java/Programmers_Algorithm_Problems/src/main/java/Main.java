@@ -1,4 +1,4 @@
-import Problems.연습문제.시소_짝꿍.Solution;
+import Problems.월간_코드_챌린지_시즌1._3진법_뒤집기.Solution;
 
 public class Main {
 
