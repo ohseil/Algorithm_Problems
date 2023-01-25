@@ -1,4 +1,4 @@
-import Problems.월간_코드_챌린지_시즌1._3진법_뒤집기.Solution;
+import Problems.위클리_챌린지.부족한_금액_계산하기.Solution;
 
 public class Main {
 
