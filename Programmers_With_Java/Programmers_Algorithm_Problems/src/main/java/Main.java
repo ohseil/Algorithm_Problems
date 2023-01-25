@@ -1,4 +1,4 @@
-import Problems.위클리_챌린지.부족한_금액_계산하기.Solution;
+import Problems.완전탐색.최소직사각형.Solution;
 
 public class Main {
 
