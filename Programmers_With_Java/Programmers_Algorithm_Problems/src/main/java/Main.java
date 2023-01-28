@@ -1,4 +1,4 @@
-import Problems.월간_코드_챌린지_시즌3.나머지가_1이_되는_수_찾기.Solution;
+import Problems._2022_KAKAO_TECH_INTERNSHIP.성격_유형_검사하기.Solution;
 
 public class Main {
 
