@@ -1,4 +1,4 @@
-import Problems._2022_KAKAO_TECH_INTERNSHIP.성격_유형_검사하기.Solution;
+import Problems.연습문제.삼총사.Solution;
 
 public class Main {
 
