@@ -1,4 +1,4 @@
-import Problems.연습문제.미로_탈출.Solution;
+import Problems.연습문제.콜라_문제.Solution;
 
 public class Main {
 
