@@ -1,4 +1,4 @@
-import Problems.연습문제.콜라_문제.Solution;
+import Problems.연습문제.옹알이2.Solution;
 
 public class Main {
 
