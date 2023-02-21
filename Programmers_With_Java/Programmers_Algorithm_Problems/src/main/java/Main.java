@@ -1,4 +1,4 @@
-import Problems.연습문제.옹알이2.Solution;
+import Problems.연습문제.햄버거_만들기.Solution;
 
 public class Main {
 
