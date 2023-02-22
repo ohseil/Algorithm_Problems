@@ -1,4 +1,4 @@
-import Problems.연습문제.햄버거_만들기.Solution;
+import Problems.연습문제.푸드_파이트_대회.Solution;
 
 public class Main {
 
