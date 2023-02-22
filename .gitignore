@@ -84,3 +84,5 @@ build/
 
 ### Gradle Patch ###
 **/build/
+
+/.idea/dbnavigator.xml
