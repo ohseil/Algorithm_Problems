@@ -1,4 +1,4 @@
-import Problems.연습문제.과일_장수.Solution;
+import Problems.연습문제.기사단원의_무기.Solution;
 
 public class Main {
 
