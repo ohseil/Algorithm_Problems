@@ -1,4 +1,4 @@
-import Problems.연습문제.과일_장수.Solution;
+import Problems.연습문제.명예의_전당.Solution;
 
 public class Main {
 
