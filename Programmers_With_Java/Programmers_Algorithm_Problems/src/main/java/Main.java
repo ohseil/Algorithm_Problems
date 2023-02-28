@@ -1,4 +1,4 @@
-import Problems.연습문제.명예의_전당.Solution;
+import Problems.연습문제.문자열_나누기.Solution;
 
 public class Main {
 
