@@ -1,4 +1,4 @@
-import Problems.연습문제.문자열_나누기.Solution;
+import Problems.연습문제.테이블_해시_함수.Solution;
 
 public class Main {
 
