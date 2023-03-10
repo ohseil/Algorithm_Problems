@@ -1,4 +1,4 @@
-import Problems.연습문제.테이블_해시_함수.Solution;
+import Problems.연습문제.유사_칸토어_비트열.Solution;
 
 public class Main {
 
