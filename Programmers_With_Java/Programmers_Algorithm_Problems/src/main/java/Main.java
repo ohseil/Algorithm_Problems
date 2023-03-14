@@ -1,4 +1,4 @@
-import Problems.연습문제.유사_칸토어_비트열.Solution;
+import Problems.연습문제.바탕화면_정리.Solution;
 
 public class Main {
 
