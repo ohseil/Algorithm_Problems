@@ -522,6 +522,57 @@
     <ClCompile Include="영어_끝말잇기.cpp">
       <Filter>소스 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
     </ClCompile>
+    <ClCompile Include="점프와_순간_이동.cpp">
+      <Filter>소스 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
+    </ClCompile>
+    <ClCompile Include="기지국_설치.cpp">
+      <Filter>소스 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
+    </ClCompile>
+    <ClCompile Include="배달.cpp">
+      <Filter>소스 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
+    </ClCompile>
+    <ClCompile Include="스티커_모으기2.cpp">
+      <Filter>소스 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
+    </ClCompile>
+    <ClCompile Include="짝지어_제거하기.cpp">
+      <Filter>소스 파일\problems\2017 팁스타운</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자_카드_나누기.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자_타자_대회.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="우박수열_정적분.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="등대.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="할인_행사.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="혼자_놀기의_달인.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="귤_고르기.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="카운트_다운.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="연속_부분_수열_합의_개수.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="택배상자.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="롤케이크_자르기.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="부대복귀.cpp">
+      <Filter>소스 파일\problems\연습문제</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main_header.h">
@@ -898,6 +949,57 @@
     </ClInclude>
     <ClInclude Include="영어_끝말잇기.h">
       <Filter>헤더 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
+    </ClInclude>
+    <ClInclude Include="점프와_순간_이동.h">
+      <Filter>헤더 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
+    </ClInclude>
+    <ClInclude Include="기지국_설치.h">
+      <Filter>헤더 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
+    </ClInclude>
+    <ClInclude Include="배달.h">
+      <Filter>헤더 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
+    </ClInclude>
+    <ClInclude Include="스티커_모으기2.h">
+      <Filter>헤더 파일\problems\Summer/Winter Coding%28~2018%29</Filter>
+    </ClInclude>
+    <ClInclude Include="짝지어_제거하기.h">
+      <Filter>헤더 파일\problems\2017 팁스타운</Filter>
+    </ClInclude>
+    <ClInclude Include="숫자_카드_나누기.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="숫자_타자_대회.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="우박수열_정적분.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="등대.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="할인_행사.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="혼자_놀기의_달인.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="귤_고르기.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="카운트_다운.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="연속_부분_수열_합의_개수.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="택배상자.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="롤케이크_자르기.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
+    </ClInclude>
+    <ClInclude Include="부대복귀.h">
+      <Filter>헤더 파일\problems\연습문제</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
