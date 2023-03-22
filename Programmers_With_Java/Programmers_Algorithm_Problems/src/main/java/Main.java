@@ -1,4 +1,4 @@
-import Problems.연습문제.바탕화면_정리.Solution;
+import Problems.연습문제.당구_연습.Solution;
 
 public class Main {
 
