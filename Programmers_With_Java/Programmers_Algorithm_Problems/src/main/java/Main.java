@@ -1,4 +1,4 @@
-import Problems.연습문제.공원_산책.Solution;
+import Problems.연습문제.카드_뭉치.Solution;
 
 public class Main {
 
