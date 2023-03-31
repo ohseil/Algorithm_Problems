@@ -1,4 +1,4 @@
-import Problems.연습문제.카드_뭉치.Solution;
+import Problems.연습문제.과제_진행하기.Solution;
 
 public class Main {
 
