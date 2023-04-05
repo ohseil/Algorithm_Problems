@@ -1,4 +1,4 @@
-import Problems.연습문제.과제_진행하기.Solution;
+import Problems.연습문제.숫자_변환하기.Solution;
 
 public class Main {
 
