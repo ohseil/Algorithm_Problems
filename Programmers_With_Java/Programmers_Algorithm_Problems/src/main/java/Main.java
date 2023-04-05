@@ -1,4 +1,4 @@
-import Problems.연습문제.숫자_변환하기.Solution;
+import Problems.연습문제.뒤에_있는_큰_수_찾기.Solution;
 
 public class Main {
 
