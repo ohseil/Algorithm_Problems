@@ -1,4 +1,4 @@
-import Problems.연습문제.뒤에_있는_큰_수_찾기.Solution;
+import Problems.연습문제.무인도_여행.Solution;
 
 public class Main {
 
