@@ -1,4 +1,4 @@
-import Problems.연습문제.무인도_여행.Solution;
+import Problems.연습문제.호텔_대실.Solution;
 
 public class Main {
 
