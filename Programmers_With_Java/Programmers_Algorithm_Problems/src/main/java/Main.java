@@ -1,4 +1,4 @@
-import Problems.연습문제.호텔_대실.Solution;
+import Problems.연습문제.둘만의_암호.Solution;
 
 public class Main {
 
