@@ -1,4 +1,4 @@
-import Problems.연습문제.둘만의_암호.Solution;
+import Problems.연습문제.달리기_경주.Solution;
 
 public class Main {
 
