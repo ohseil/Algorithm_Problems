@@ -1,4 +1,4 @@
-import Problems.연습문제.달리기_경주.Solution;
+import Problems.연습문제.연속된_부분_수열의_합.Solution;
 
 public class Main {
 
