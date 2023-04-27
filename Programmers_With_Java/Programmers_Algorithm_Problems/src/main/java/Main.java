@@ -1,4 +1,4 @@
-import Problems.연습문제.연속된_부분_수열의_합.Solution;
+import Problems.연습문제.혼자서_하는_틱택토.Solution;
 
 public class Main {
 
