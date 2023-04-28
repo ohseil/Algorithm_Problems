@@ -1,4 +1,4 @@
-import Problems.연습문제.혼자서_하는_틱택토.Solution;
+import Problems.연습문제.리코쳇_로봇.Solution;
 
 public class Main {
 
