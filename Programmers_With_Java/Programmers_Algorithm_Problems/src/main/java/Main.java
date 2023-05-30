@@ -1,4 +1,4 @@
-import Problems.연습문제.리코쳇_로봇.Solution;
+import Problems.연습문제.요격_시스템.Solution;
 
 public class Main {
 
