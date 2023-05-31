@@ -1,4 +1,4 @@
-import Problems.연습문제.요격_시스템.Solution;
+import Problems.연습문제.두_원_사이의_정수_쌍.Solution;
 
 public class Main {
 
