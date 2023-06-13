@@ -1,4 +1,4 @@
-import Problems.연습문제.광물_캐기.Solution;
+import Problems.연습문제.연속_펄스_부분_수열의_합.Solution;
 
 public class Main {
 
