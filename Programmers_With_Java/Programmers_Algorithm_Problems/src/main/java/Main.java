@@ -1,4 +1,4 @@
-import Problems.연습문제.인사고과.Solution;
+import Problems.연습문제.추억_점수.Solution;
 
 public class Main {
 
