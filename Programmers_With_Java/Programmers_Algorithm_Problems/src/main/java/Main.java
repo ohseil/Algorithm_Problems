@@ -1,4 +1,4 @@
-import Problems.연습문제.덧칠하기.Solution;
+import Problems._2023_KAKAO_BLIND_RECRUITMENT.개인정보_수집_유효기간.Solution;
 
 public class Main {
 
