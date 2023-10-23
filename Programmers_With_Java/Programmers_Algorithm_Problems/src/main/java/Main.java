@@ -1,4 +1,4 @@
-import Problems._2022_KAKAO_TECH_INTERNSHIP.두_큐_합_같게_만들기.Solution;
+import Problems._2022_KAKAO_TECH_INTERNSHIP.코딩_테스트_공부.Solution;
 
 public class Main {
 
