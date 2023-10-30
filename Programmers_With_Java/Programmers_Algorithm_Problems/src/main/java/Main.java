@@ -1,4 +1,4 @@
-import Problems._2022_KAKAO_TECH_INTERNSHIP.코딩_테스트_공부.Solution;
+import Problems._2022_KAKAO_TECH_INTERNSHIP.등산코스_정하기.Solution;
 
 public class Main {
 
