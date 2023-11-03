@@ -1,4 +1,4 @@
-import Problems._2022_KAKAO_TECH_INTERNSHIP.등산코스_정하기.Solution;
+import Problems._2022_KAKAO_TECH_INTERNSHIP.행렬과_연산.Solution;
 
 public class Main {
 
