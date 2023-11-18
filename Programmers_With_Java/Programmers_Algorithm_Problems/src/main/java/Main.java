@@ -1,4 +1,4 @@
-import Problems._2022_KAKAO_BLIND_RECRUITMENT.주차_요금_계산.Solution;
+import Problems._2022_KAKAO_BLIND_RECRUITMENT.양궁대회.Solution;
 
 public class Main {
 
